@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="50" height="33" viewBox="0 0 50 33">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_1596" data-name="Rectangle 1596" width="26" height="33" transform="translate(0 0.131)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect id="Rectangle_1597" data-name="Rectangle 1597" width="26" height="34" transform="translate(0 0.048)" fill="#6d44e5" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Group_8590" data-name="Group 8590" transform="translate(-145 -3877.002)">
+    <g id="Mask_Group_45" data-name="Mask Group 45" transform="translate(145 3876.871)" clip-path="url(#clip-path)">
+      <path id="Path_567" data-name="Path 567" d="M8.639,4.1l8.38,2.7a4.088,4.088,0,1,1,4.062,1.309l8.381,2.7a1.51,1.51,0,0,1,.968,1.892l-2.787,8.717a4.1,4.1,0,1,0-1.11,3.473l-2.787,8.717a1.5,1.5,0,0,1-1.884.972L1.04,27.87a1.51,1.51,0,0,1-.968-1.892L6.755,5.07A1.5,1.5,0,0,1,8.639,4.1" transform="matrix(0.951, -0.309, 0.309, 0.951, -7.605, 6.916)" fill="#85e6c4" stroke="rgba(0,0,0,0)" stroke-miterlimit="10" stroke-width="1" fill-rule="evenodd"/>
+    </g>
+    <g id="Mask_Group_46" data-name="Mask Group 46" transform="translate(160.951 3910) rotate(-90)" clip-path="url(#clip-path-2)">
+      <path id="Path_15149" data-name="Path 15149" d="M8.639,4.1l8.38,2.7a4.088,4.088,0,1,1,4.062,1.309l8.381,2.7a1.51,1.51,0,0,1,.968,1.892l-2.787,8.717a4.1,4.1,0,1,0-1.11,3.473l-2.787,8.717a1.5,1.5,0,0,1-1.884.972L1.04,27.87a1.51,1.51,0,0,1-.968-1.892L6.755,5.07A1.5,1.5,0,0,1,8.639,4.1" transform="matrix(0.951, -0.309, 0.309, 0.951, -7.604, 7.8)" fill="#6d44e5" stroke="rgba(0,0,0,0)" stroke-miterlimit="10" stroke-width="1" fill-rule="evenodd"/>
+    </g>
+  </g>
+</svg>

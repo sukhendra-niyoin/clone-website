@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+  <g id="Invoices_enabled_with_" data-name="Invoices enabled with " transform="translate(-5643 -1408)">
+    <rect id="Rectangle_2399" data-name="Rectangle 2399" width="40" height="40" transform="translate(5643 1408)" fill="none"/>
+    <g id="Group_9123" data-name="Group 9123" transform="translate(4 5.56)">
+      <path id="Subtraction_50" data-name="Subtraction 50" d="M27,26.44H5a5.006,5.006,0,0,1-5-5v-16a5.006,5.006,0,0,1,5-5H27a5.006,5.006,0,0,1,5,5v16A5.006,5.006,0,0,1,27,26.44Zm-17-25a1,1,0,1,0,1,1A1,1,0,0,0,10,1.44Zm-3,0a1,1,0,1,0,1,1A1,1,0,0,0,7,1.44Zm-3.5,0c-.276,0-.5.449-.5,1s.224,1,.5,1,.5-.449.5-1S3.776,1.44,3.5,1.44Z" transform="translate(5643 1409)" fill="#85e6c4"/>
+      <path id="Subtraction_48" data-name="Subtraction 48" d="M31.9,4.441H.1A5.014,5.014,0,0,1,5,.44H27a5.014,5.014,0,0,1,4.9,4ZM10,1.44a1,1,0,1,0,1,1A1,1,0,0,0,10,1.44Zm-3,0a1,1,0,1,0,1,1A1,1,0,0,0,7,1.44Zm-3.5,0c-.276,0-.5.449-.5,1s.224,1,.5,1,.5-.449.5-1S3.776,1.44,3.5,1.44Z" transform="translate(5643 1409)" fill="#fff"/>
+      <rect id="Rectangle_2392" data-name="Rectangle 2392" width="6" height="4" rx="1" transform="translate(5647 1416.44)" fill="#091b49"/>
+      <rect id="Rectangle_2393" data-name="Rectangle 2393" width="9" height="4" rx="1" transform="translate(5647 1422.44)" fill="#091b49"/>
+      <rect id="Rectangle_2394" data-name="Rectangle 2394" width="12" height="4" rx="1" transform="translate(5647 1428.44)" fill="#091b49"/>
+    </g>
+  </g>
+</svg>

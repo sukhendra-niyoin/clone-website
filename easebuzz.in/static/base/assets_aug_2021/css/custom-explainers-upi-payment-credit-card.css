@@ -1,0 +1,112 @@
+
+
+.upi-payment-skewblue-banner {
+    background:linear-gradient(289deg, #5536B3 0%, #365396 100%) 0% 0% no-repeat padding-box!important;
+}
+
+.banner-heading-size-new {
+    font-size: 48px!important;
+    line-height: 58px!important;
+}
+
+.payment-banner__content .banner-img-e {
+    position: relative !important;
+    -webkit-transform: translateY(0%) !important;
+    -ms-transform: translateY(0%) !important;
+    transform: translateY(0%) !important;
+    right: 0 !important;
+    top: 0 !important;
+}
+
+.payment-banner__content.pl-spacing {
+    padding: 220px 0px 180px !important;
+}
+
+.upi-payment-sec-space-top{
+    padding: 120px 0 30px;
+}
+
+.upi-payment-sec-space{
+    padding: 30px 0 30px;
+}
+
+.sub-heading-size-new{
+    font-size: 32px !important;
+    font-weight: 600 !important;
+    line-height: 38px !important;
+    /* margin: 20px 15px 0!important; */
+
+}
+
+.heading-size-new{
+    font-size:40px!important;
+    margin-bottom: 30px !important;
+}
+
+
+
+@media only screen and (max-width: 1024px){
+    .banner-heading-size-new {
+        font-size: 42px!important;
+        line-height: 58px!important;
+    }
+}
+
+@media only screen and (max-width: 991px) {
+  
+    .heading-size-new{
+        font-size:36px!important
+    }
+
+    .sub-heading-size-new {
+        font-size: 28px !important;
+    }
+
+    .payment-banner__content.pl-spacing {
+        padding: 190px 0 100px !important;
+    }
+
+}
+
+
+@media only screen and (max-width: 768px) {
+    .banner-heading-size-new {
+        font-size: 28px !important;
+        line-height: 38px !important;
+    }
+
+}
+
+@media only screen and (max-width: 767px) {
+
+    .heading-size-new {
+        font-size: 26px!important;
+    }
+
+    .sub-heading-size-new {
+        font-size: 22px !important;
+        line-height: 26px !important;
+    }
+
+    .payment-banner__content.pl-spacing {
+        padding: 190px 0 100px !important;
+    }
+}
+
+@media only screen and (max-width: 375px){
+    .heading-size-new {
+        font-size: 24px!important;
+    }
+
+    .sub-heading-size-new {
+        font-size: 20px !important;
+    }
+    
+}
+
+@media only screen and (max-width: 320px){
+    .heading-size-new {
+        font-size: 22px!important;
+    }
+    
+}

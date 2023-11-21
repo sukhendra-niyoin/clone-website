@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="18" height="18" viewBox="0 0 18 18">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" y1="-0.363" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff5e9"/>
+      <stop offset="0.605" stop-color="#7d95e6"/>
+      <stop offset="1" stop-color="#3f28dd"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_18808" data-name="Group 18808" transform="translate(-517 -328)">
+    <rect id="Rectangle_6273" data-name="Rectangle 6273" width="18" height="18" transform="translate(517 328)" fill="none"/>
+    <path id="Path_18483" data-name="Path 18483" d="M6.123,7.25,6.914,2H2.8L1.081,6.5A1.578,1.578,0,0,0,1,7,2.34,2.34,0,0,0,3.571,9,2.439,2.439,0,0,0,6.123,7.25ZM10,9a2.34,2.34,0,0,0,2.571-2c0-.041,0-.082-.005-.121L12.057,2H7.943l-.51,4.875q0,.062,0,.125A2.34,2.34,0,0,0,10,9Zm8.92-2.5L17.2,2H13.086l.79,5.242A2.433,2.433,0,0,0,16.429,9,2.34,2.34,0,0,0,19,7,1.606,1.606,0,0,0,18.92,6.5Z" transform="translate(516 327)" fill="#33edb0"/>
+    <path id="Path_18484" data-name="Path 18484" d="M15,10.046V14H5V10.052a4.208,4.208,0,0,1-1.429.248A4.122,4.122,0,0,1,3,10.251V16.6A1.4,1.4,0,0,0,4.4,18H15.6A1.4,1.4,0,0,0,17,16.6V10.252a4.3,4.3,0,0,1-.571.049A4.155,4.155,0,0,1,15,10.046Z" transform="translate(516 327)" fill="url(#linear-gradient)"/>
+  </g>
+</svg>

@@ -1,0 +1,208 @@
+header .nav.loaded{
+    margin-top: 0px !important;
+    padding: 30px 0 !important;
+}
+
+hr{
+    margin: 0 !important;
+}
+
+.disable-links{
+    pointer-events: none !important;
+}
+
+
+.header-sign-up .sign-up {
+    color: #fff !important;
+    background-color: #6D44E5 !important;
+    border-radius: 10px;
+}
+
+.header-transparent .menu__link {
+    font-family: "Sen", sans-serif;
+    font-weight: 500;
+    font-size: 18px;
+    color: #091B49;
+    line-height: 26px;
+    letter-spacing: 0.05em;
+}
+
+.active1{
+    color: #6D44E5 !important;
+    font-weight: 600 !important;
+}
+
+/* .header-transparent .menu__link:hover, .header-transparent .menu__link:focus {
+    color: #be790d;
+    border-bottom: 10px solid rgba(190, 121, 13, .3);
+} */
+/* 
+.menu__link.active1:focus{
+    color: #6D44E5 !important;
+    font-weight: 600 !important;
+} */
+
+.nav-two{
+    top: 104px !important; 
+    opacity: 1 !important;
+}
+
+.svg-white svg path {
+    fill: unset !important;
+}
+
+#Path_7071{
+    fill: rgb(133, 230, 196) !important;
+}
+
+#Path_7072{
+    fill: rgb(109, 68, 229) !important;
+}
+
+#Path_7073{
+    fill: rgb(81, 124, 227) !important;
+}
+.menu{
+    width: 100%;
+}
+.menu-list {
+    justify-content: space-around;
+}
+
+.menu-signup-button{
+    display: none;
+}
+@media only screen and (min-width: 1202px){
+    .easebuzz-logo-img{
+        display: none;
+    }
+}
+
+@media only screen and (max-width: 1201px){
+
+    .menu {
+        width: 100% !important;
+        padding: 0px;
+        background: #fff url(../img/easebuzz/easebuzz-explainer/explainers-header/navbar_bg.png) no-repeat right bottom !important;
+        background-size: auto !important;
+    }
+
+    hr {
+        display: none;
+    }
+
+    .menu-signup-button{
+        display: block;
+        padding: 0% 0 0 12.3%!important;
+       }
+}
+
+
+
+@media only screen and (max-width: 1201px){
+    /* .nav-one{
+        display: none;
+    } */
+
+    header .nav.loaded {
+        margin-top: 5% !important;
+    }
+
+    .nav-one .explainer-head-signup, 
+    .nav-one .header-brand-logo{
+        display: none;
+    }
+
+    .explainer-head-logo{
+        margin: 0 auto;
+    }
+
+    .menu-icon {
+        top: 13px;
+    }
+
+    .nav-two{
+        top: 0% !important; 
+        opacity: 1 !important;
+    }
+
+    .menu-list {
+        justify-content: flex-start;
+    }
+
+    .menu.active .menu-list {
+        padding: 10% 10% 0!important;
+        height: 75vh;
+        align-items: flex-start;
+    }
+
+    .header-transparent .menu-icon .line, .header-transparent .menu__link::after {
+        background-color: #000000 !important;
+    }
+
+    .header-sign-up .sign-up-mobile {
+        color: #fff !important;
+        background-color: #6D44E5 !important;
+        border-radius: 5px;
+        /* position: fixed; */
+        /* bottom: 30px; */
+        padding: 10px 40px;
+        /* margin: 20% 10% 0%; */
+    }
+}
+
+@media (min-width: 992px)
+{
+    .menu__item {
+        margin: 10px 0 !important;
+    }
+    .nav-wrap {
+        padding-top: 0px;
+        padding-bottom: 0px;
+    }
+    
+}
+
+
+
+@media only screen and (max-width: 991px){
+    .logo img {
+        height: auto;
+        width: 151px;
+    }
+
+    .menu-signup-button {
+        padding: 0% 0 0 11.5%!important;
+    }
+}
+
+
+@media only screen and (max-width: 768px){
+    header .nav.loaded {
+        margin-top: 6% !important;
+    }
+}
+
+@media only screen and (max-width: 767px){
+    header .nav.loaded {
+        margin-top: 6% !important;
+    }
+}
+
+@media only screen and (max-width: 600px){
+    header .nav.loaded {
+        margin-top: 8% !important;
+    }
+}
+
+@media only screen and (max-width: 414px){
+    header .nav.loaded {
+        margin-top: 11% !important;
+    }
+}
+
+@media only screen and (max-width: 375px){
+    header .nav.loaded {
+        margin-top: 13% !important;
+    }
+}

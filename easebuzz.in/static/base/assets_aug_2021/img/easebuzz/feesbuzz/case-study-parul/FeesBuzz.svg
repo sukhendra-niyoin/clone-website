@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="52" height="52" viewBox="0 0 52 52">
+  <defs>
+    <linearGradient id="linear-gradient" x1="-0.049" y1="0.092" x2="0.798" y2="0.923" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff5e9"/>
+      <stop offset="0.605" stop-color="#7d95e6"/>
+      <stop offset="1" stop-color="#3f28dd"/>
+    </linearGradient>
+  </defs>
+  <g id="FeesBuzz" transform="translate(-63 -89)">
+    <rect id="Rectangle_6093" data-name="Rectangle 6093" width="52" height="52" transform="translate(63 89)" fill="none"/>
+    <g id="_7FeesBuzz" data-name="7FeesBuzz" transform="translate(69.102 94.2)">
+      <path id="Path_1964" data-name="Path 1964" d="M19.6,17.565V3.472a1.166,1.166,0,0,0-1.084-1.084,8.185,8.185,0,0,0-2.891.542A15.653,15.653,0,0,0,7.858,9.073,16.957,16.957,0,0,0,7.316,26.6c3.433,5.6,9.937,7.95,16.261,7.047C32.43,32.38,35.5,24.43,35.683,18.468A1.041,1.041,0,0,0,34.6,17.384h-15Z" transform="translate(1.539 0.186)" fill="url(#linear-gradient)"/>
+      <path id="Path_1965" data-name="Path 1965" d="M18.9,7.86V1.9c0-1.265.361-1.626,1.807-1.445a15.34,15.34,0,0,1,13.37,13.19c.181,1.445-.181,1.987-1.626,1.987H20.53c-1.084,0-1.626-.361-1.626-1.626Z" transform="translate(5.671 -0.408)" fill="#18253e"/>
+      <path id="Path_1966" data-name="Path 1966" d="M0,27.42a8.561,8.561,0,0,1,8.853-8.492,8.763,8.763,0,1,1-.181,17.526A8.989,8.989,0,0,1,0,27.42Z" transform="translate(0 5.146)" fill="#33eeb1"/>
+      <path id="Path_1967" data-name="Path 1967" d="M8.6,25H4.449a.542.542,0,0,1,0-1.084H8.785c0-.181,0-.361-.181-.361a2.267,2.267,0,0,0-1.987-1.084H4.63c-.181,0-.361-.181-.542-.181-.181-.361,0-.723.542-.723h6.143a.542.542,0,1,1,0,1.084H9.147c.181.542.542,1.084.723,1.626h.723a.542.542,0,1,1,0,1.084h-.9c-.361,1.626-1.807,2.53-3.975,2.349.181.181.361.181.361.361l3.252,3.252.181.181a.549.549,0,0,1,0,.723c-.181.181-.361.181-.723,0L8.6,32.047C7.159,30.6,5.714,29.156,4.088,27.71c-.181-.181-.361-.361-.181-.723s.361-.361.723-.361H6.617A1.966,1.966,0,0,0,8.6,25Z" transform="translate(1.15 5.94)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

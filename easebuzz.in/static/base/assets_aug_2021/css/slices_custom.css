@@ -1,0 +1,863 @@
+.slices-banner-new{
+    background: linear-gradient(110deg, #6D44E5 0%, #B543FF 100%) 0% 0% no-repeat padding-box !important;
+}
+
+.signup-cta-color{
+    background: #fff;
+    color: #6D44E5 !important;
+}
+
+.page-link{
+    color: #6D44E5 !important;
+}
+
+
+.benefits_easebuzz .help-button-list__item .banner-line {
+    padding: 16px 35px;
+}
+
+.benefits_easebuzz .help-button-list{
+    margin: 0 auto;
+}
+
+
+.banner-img-w.feesbuzz-vector {
+    top: 50% !important;
+    width: 100%;
+}
+
+
+.slices-space {
+    padding: 60px 0 60px!important;
+}
+
+
+.heading-size-new {
+    font-size: 40px !important;
+    margin-bottom: 30px !important;
+}
+
+.about-slices{
+    justify-content: center;
+}
+
+.common-banner-content .integrated-list__item {
+    margin-right: 33px;
+    width: auto;
+}
+
+
+.common-banner-content .integrated-list__item img, .input-data.has-value ~ .focus-border, .nice-select .list, .select.has-value ~ .focus-border {
+    width: 100%;
+}
+
+/* ----------payment method tab section start----------- */
+
+
+.payment-methods .row.pl-method {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 30px 0 0;
+}
+
+
+.scroll-play.slices-sec-space
+{
+    padding: 60px 0 0px!important;
+}
+
+
+.tab.gseamless-w {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.tab button.active {
+    background: linear-gradient(101deg,#6b42e1 ,#37b0c4)!important;
+    border: none;
+}
+
+.shopify-bubble-e {
+    margin: 10px;
+    display: inline-flex;
+    width: 80%;
+    padding: 15px 0px;
+    background-color: #fff;
+    border-radius: 10px!important;
+    border: 1px solid #6d44e5;
+    justify-content: center;
+}
+
+.methods-imgs .tabcontent img {
+    margin-bottom: 15px;
+}
+
+.tab button.active .shopify-text .heading--black {
+    color: #fff!important;
+}
+
+.shopify-text {
+    text-align: left;
+    line-height: 1.5em;
+}
+
+/* .shopify-text-e {
+    padding: 5px 0!important;
+} */
+
+button:focus {
+    outline: 0!important;
+}
+
+.shopify-text-e h3 {
+    font-size: 22px!important;
+    font-weight: 400;
+}
+
+.wi-cs {
+    width: 100%;
+}
+
+.methods-imgs .payment-list__item:not(:last-child){ 
+    margin-bottom: 15px;
+}
+/* ----------payment method tab section end----------- */
+
+
+
+/* ------Benefits of split payments start-------- */
+
+.slices-space-m{
+    margin: 60px 0 60px !important;
+}
+
+.choose-card-a, .choose-card-b, .matrix_pattern, .pipe_pattern, .shopify-bubble-e {
+    position: relative;
+}
+
+.matrix_pattern img {
+    position: absolute;
+    top: 0;
+}
+
+.pipe_pattern img {
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+
+.pding_h_b {
+    padding: 120px 0 30px !important;
+}
+
+.benefits_easebuzz .heading-size-new {
+    margin: 0 auto;
+}
+
+.benefits_easebuzz .choose-list__item {
+    margin: 60px 0;
+}
+
+.benefits_easebuzz .choose-list__item .choose-card {
+    background: 0 0 !important;
+    -webkit-box-shadow: none !important;
+    box-shadow: none !important;
+    padding: 0 !important;
+}
+
+.benefits_easebuzz .choose-list__item .choose-card__img-w {
+    width: 40px !important;
+    height: 40px !important;
+    -webkit-border-radius: 0% !important;
+    border-radius: 0 !important;
+    border: none !important;
+    text-align: left !important;
+    padding: 0 !important;
+    margin-bottom: 0 !important;
+    margin-left: 24px !important;
+}
+
+.left-border {
+    border-left: 2px solid;
+    border-image: linear-gradient(180deg, #85e6c4, #85e6c400) 1;
+    padding-left: 20px !important;
+}
+
+.choose-card__desc-e h4{
+    font-size: 22px;
+}
+
+
+/* ------Benefits of split payments end-------- */
+
+
+/* prod video start */
+
+.corner-round {
+    border-radius: 20px !important;
+    width: 100% !important;
+    border: 0.1px solid #dbdbdb !important;
+}
+
+.steps-video{
+   align-items: center;
+}
+
+
+.productvideo-section-w .video-info {
+    padding: 70px 0 0px !important;
+}
+
+.step-one,.step-second,.step-third{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.step-one span,
+.step-second span,
+.step-third span{
+    margin: 20px;
+}
+
+.step-info p{
+    margin: 0 !important; 
+}
+
+.step-info .step-info-title{
+    font-weight: 600;
+    font-size: 20px;
+}
+
+.video-info{
+    padding: 100px 0 100px;
+}
+
+.video-frame{
+    background: linear-gradient(0deg, #6D44E5 0%, #372273 100%) 0% 0% no-repeat padding-box;;
+    border-radius: 25px;
+    width: 100%;
+    /* height: 100%; */
+    height: 30vh;
+    position: relative;
+}
+
+.video-frame img{
+    cursor: pointer;
+}
+
+.ply-button{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+
+
+/* prod video end */
+
+
+
+/* testimenial section start */
+
+.slick-slider {
+    margin: 30px auto 0px;
+}
+.slick-next,
+.slick-prev {
+    border: 1px solid #8f93a8 !important;
+    border-radius: 50%;
+    position: absolute;
+    top: 50%;
+    display: block;
+    width: 32px !important;
+    height: 32px !important;
+    margin-top: -10px;
+    padding: 0;
+    color: transparent;
+    background: 0 0;
+}
+.slick-next path,
+.slick-prev path {
+    fill: #8f93a8 !important;
+}
+.slick-next:hover path,
+.slick-prev:hover path {
+    fill: #6d44e5 !important;
+}
+.slick-prev {
+    left: -50px;
+}
+.slick-next {
+    right: -50px;
+}
+.slick-next:before,
+.slick-prev:before {
+    content: none;
+}
+.slick-dots {
+    position: absolute;
+    display: block;
+    width: 100%;
+    padding: 0;
+    list-style: none;
+    text-align: center;
+}
+.slick-dots li {
+    position: relative;
+    width: 20px;
+    height: 20px;
+    margin: 0 5px;
+    padding: 0;
+    cursor: pointer;
+}
+.slick-dots li button {
+    width: 15px;
+    height: 15px;
+    /* margin: 3px; */
+    /* padding: 5px; */
+    border: 0;
+    color: #cccccc00;
+    border-radius: 50%;
+    background: #ccc;
+}
+.full-stack-mobile .carousel-section .owl-carousel .owl-nav .owl-next:focus,
+.full-stack-mobile .carousel-section .owl-carousel .owl-nav .owl-prev:focus,
+.slick-dots li button:focus,
+.slick-dots li button:hover {
+    outline: 0;
+}
+.slick-dots li button:focus:before,
+.slick-dots li button:hover:before {
+    opacity: 1;
+}
+.slick-dots li button:before {
+    font-family: slick;
+    font-size: 20px;
+    line-height: 20px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 15px;
+    height: 15px;
+    content: "•";
+    text-align: center;
+    opacity: 0.25;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+.slick-dots li.slick-active button:before {
+    opacity: 0.75;
+    background: #6d44e5 !important;
+    border-radius: 100px;
+    color: #6d44e5;
+}
+
+.inline-b-item, .slick-dots li {
+    display: inline-block;
+}
+
+.slick-dots li button,
+.slick-next,
+.slick-prev {
+    font-size: 0;
+    line-height: 0;
+    cursor: pointer;
+    outline: 0;
+    display: block;
+}
+
+blockquote {
+    margin: 0 0 20px;
+    line-height: 1.5;
+    font-style: normal !important;
+    color: #2a2a2a;
+}
+.quote-container {
+    min-height: 200px;
+    color: #666;
+    font-size: 36px;
+    margin: 0 20px;
+    position: relative;
+}
+.quote-container:hover {
+    cursor: grab;
+}
+.quote-container .portrait {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    margin: 21px auto;
+    height: 140px;
+    width: 140px;
+    overflow: hidden;
+}
+
+.quote-container .portrait img {
+    display: block;
+    height: auto;
+    width: 100%;
+}
+
+.quote-container .quote {
+    position: relative;
+    z-index: 600;
+    padding: 40px 0 0px 180px;
+    margin: 0;
+    font-size: 20px;
+    font-style: italic;
+    line-height: 1.4 !important;
+    color: #fff;
+}
+.quote-container .quote p {
+    position: relative;
+    margin-bottom: 20px;
+    margin-left: 35px;
+}
+.quote-container .quote p:first-child:before {
+    content: "";
+    height: 60px;
+    width: 60px;
+    background-image: url("../img/home/homepage_new/testimonial/inverted_comma.svg");
+    -webkit-background-size: contain;
+    background-size: contain;
+    background-repeat: no-repeat;
+    position: absolute;
+    top: -25px;
+    left: -45px;
+}
+.quote-container .quote cite {
+    display: block;
+    font-size: 14px;
+    margin-left: 15px;
+}
+.testi-img img {
+    width: 100%;
+    height: min-content;
+    margin-left: 35px;
+}
+.quote-container .quote cite span {
+    font-size: 16px;
+    font-style: normal;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+}
+.dragging .quote-container {
+    cursor: grabbing;
+}
+
+.docopd {
+    width: 121px !important;
+}
+.dexpert,
+.m2m {
+    width: 75px !important;
+}
+
+
+/* testimenial section end */
+
+
+
+/* manage end-to-end payment start */
+
+
+
+/* .payment-collections .owl-carousel {
+    width: 100%;
+    margin-right: 10px;
+} */
+
+.payment-collections .carousel-item__card {
+    box-shadow: 0 13px 31px #dce1ed;
+    height: 216px;
+    border-radius: 12px;
+    margin: 30px 0 0px;
+    font-size: 30px;
+    font-weight: 500;
+    border: 1px solid #ddd;
+    background: url(../img/easebuzz/pg-assets/card.png) 0 0/100% 102% no-repeat;
+}
+.payment-collections .teller-card {
+    padding: 0 3rem;
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+.payment-collections .owl-carousel .owl-item img {
+    display: inherit;
+    width: fit-content;
+}
+.bullet-icon {
+    float: left;
+    margin-right: 15px;
+    margin-top: 4px !important;
+}
+.payment-collections .owl-carousel .owl-item {
+    min-height: 1px;
+    float: left;
+    -webkit-backface-visibility: hidden;
+    -webkit-touch-callout: none;
+}
+
+
+/* manage end-to-end payment end */
+
+
+/* Why choose Easebuzz payment gateway solution start */
+
+.gbenefit-left-container, .gbenefit-right-container, .gseamless, .lottie-sequrity {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.split-tab{
+        height: 465px;
+}
+
+.ps {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+.ps-img{
+    display: none;
+}
+
+.link-btn--purple, .link-btn--purple:hover {
+    background-color: #6d44e5;
+    color: #fff;
+}
+
+.demo-link {
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    padding: 16px 40px;
+}
+
+
+/* Why choose Easebuzz payment gateway solution end */
+
+
+
+
+
+
+
+
+
+
+@media (max-width: 1600px){
+.corner-round {
+    width: 92% !important;
+}
+
+}
+
+@media (max-width: 1200px){
+
+    .slick-slider {
+        margin: 30px 50px 0px;
+    }
+
+}
+
+@media (max-width: 1024px) {
+
+    .slick-slider {
+        margin: 0px 50px;
+    }
+
+    .payment-banner__content.slices-spacing {
+        padding: 100px 0 70px !important;
+    }
+
+    .heading-size-new {
+        font-size: 32px !important;
+    }
+
+    .scroll-play.payment-sec-space {
+        padding: 60px 0 60px!important;
+    }
+
+    .payment-collections .teller-card {
+        padding: 0 2rem !important;
+        margin-bottom: 30px !important;
+        margin-top: 20px !important;
+    }
+
+}
+
+@media (max-width: 991px) {
+    /* .payment-methods .row.gseamless {
+        flex-direction: column-reverse;
+    } */
+
+    .payment-methods .tabcontent {
+        padding: 20px;
+
+    }
+
+    .steps-video{
+        align-items: center;
+        flex-direction: column-reverse;
+        margin-bottom: 20px;
+    }
+
+    .steps-video{
+        align-items: center;
+        flex-direction: column-reverse;
+        margin-bottom: 20px;
+    }
+
+    .v-top-space{
+        margin-top: 30px;
+    }
+
+    .payment-collections .carousel-item__card {
+        margin: 0;
+    }
+    
+    .payment-collections .owl-carousel {
+        margin-right: 0px;
+    }
+
+    .benefits_easebuzz .choose-list__item {
+        margin: 30px 0;
+    }
+
+    .gbenefit__img.ps-img {
+        float: unset !important;
+        transform: translateY(0) !important;
+    }
+
+    .ps-img1 {
+        display: none;
+    }   
+
+    .ps-img {
+        display: block;
+        padding: 20px;
+    }
+
+    .gbenefit-left-container, .gbenefit-right-container, .gseamless, .lottie-sequrity {
+        height: auto;
+    }
+    
+    .corner-round {
+        width: 97% !important;
+    }
+
+    .payment-collections .carousel-item {
+        margin: 20px 0;
+    }
+}
+
+@media (max-width: 768px) {
+    .atc{
+        text-align: center !important;
+    }
+
+}
+
+
+@media (max-width: 767px) {
+    .heading-size-new {
+        font-size: 26px !important;
+    }
+
+    .common-banner-content .integrated-list {
+        justify-content: center;
+    }
+
+    .common-banner-content .integrated-list {
+        width: 100%;
+    }
+
+    .common-banner-content .integrated-list__item {
+        margin-right: 15px;
+        width: 25%;
+        opacity: 1 !important;
+    }
+
+    .scroll-play.slices-sec-space {
+        padding: 20px 0 20px!important;
+    }
+
+    .shopify-text-e h3 {
+        font-size: 18px!important;
+        font-weight: 400;
+    }
+
+    .shopify-bubble-e {
+        padding: 10px 0px !important;
+    }
+
+    .matrix_pattern img {
+        position: absolute;
+        top: 0;
+        width: 80%;
+    }
+
+    .pding_h_b {
+        padding: 80px 0 30px !important;
+    }
+
+    .pipe_pattern img {
+        width: 25% !important;
+    }
+
+    .choose-card__desc-e .choose-head, .offer-title {
+        text-align: left;
+    }
+
+    .choose-card__desc-e p {
+        text-align: left;
+    }
+
+    .choose-section .choose-list__item .slices_icon_img .choose-card__img{
+        width: 32px !important;
+        height: 32px !important;
+    }
+
+    .quote-container .portrait {
+        position: relative;
+        margin: 0px auto !important;
+        height: 140px;
+        width: 140px;
+        overflow: hidden;
+    }
+
+    .quote-container .quote {
+        position: relative;
+        z-index: 600;
+        padding: 20px;
+        margin: 0;
+        font-size: 20px;
+        font-style: italic;
+        line-height: 1.4 !important;
+        color: #fff;
+    }
+
+    .signup-cta-color {
+        width: 100%;
+    }
+
+
+    .text-position{
+        text-align: center;
+    }
+
+    .testi-img {
+        flex-wrap: wrap;
+        justify-content: center;
+        text-align: center;
+        flex-direction: column;
+        align-items: center;
+        margin-left: 0;
+    }
+
+}
+
+@media (max-width: 600px) {
+    .heading-size-new {
+        font-size: 27px !important;
+        line-height: 32px !important;
+        margin: 40px 0 !important;
+    }
+
+    .shopify-text-e h3 {
+        font-size: 16px!important;
+        font-weight: 400;
+    }
+
+    .quote-container .portrait {
+        position: static !important;
+    }
+
+    .quote-container .quote {
+        position: relative;
+        z-index: 600;
+        padding: 25px;
+        margin: 0;
+        line-height: 1.4 !important;
+        color: #fff;
+    }
+
+    .quote-container .quote cite {
+        margin-left: 0px;
+    }
+
+    .quote-container .quote p {
+        position: relative;
+        margin-bottom: 20px;
+        margin-left: 0px !important;
+    }
+
+    .testi-img img {
+        width: 100%;
+        height: min-content;
+        margin-left: 0px !important;
+    }
+
+    .ps {
+        flex-direction: column !important;
+    }
+
+
+}
+
+@media only screen and (max-width: 575px) and (min-width: 426px) {
+    .slick-slider {
+        margin: 0px 70px;
+    }
+}
+
+@media (max-width: 425px) {
+    .heading-size-new {
+        margin: 25px 0 !important;
+        font-size: 22px !important;
+    }
+
+    .slices-space {
+        padding: 30px 0 30px!important;
+    }
+
+    .slices-space-m{
+        margin: 30px 0 30px !important;
+    }
+
+    .choose-card__desc-e p {
+        text-align: left;
+        font-size: 14px;
+    }
+
+    .choose-card__desc-e h4 {
+        font-size: 18px;
+    }
+
+    .slick-prev {
+        left: -33px;
+    }
+    .slick-next {
+        right: -33px;
+    }
+}
+
+@media (max-width: 375px) {
+
+.cust{
+    margin: 25px 30px !important;
+}
+    
+}
+
+@media (max-width: 320px) {
+    .quote-container .quote {
+        width: 190px;
+    }
+}

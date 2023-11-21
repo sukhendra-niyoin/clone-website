@@ -1,0 +1,423 @@
+
+.bullet-icon {
+    float: left;
+    margin-right: 15px;
+    margin-top: 2px !important;
+    width: 15px;
+}
+
+.tagline-category{
+    font-size: 14px;
+}
+
+.banner-heading-size-new {
+    font-size: 48px!important;
+    line-height: 58px!important;
+}
+
+.payment-banner__content .banner-img-e {
+    position: relative !important;
+    -webkit-transform: translateY(0%) !important;
+    -ms-transform: translateY(0%) !important;
+    transform: translateY(0%) !important;
+    right: 0 !important;
+    top: 0 !important;
+}
+
+.payment-banner__content.pl-spacing {
+    padding: 220px 0px 180px !important;
+}
+
+.explainers-main{
+    padding: 150px 0 12px;
+}
+
+.article-contain{
+    padding: 30px 0 0px;
+}
+
+.article-cta{
+    padding: 27px 0 27px;
+    position: sticky !important;
+    top: 16%;
+    width: 34vw;
+    height: fit-content;
+    margin-top: 17%;
+}
+.link-btn{
+    padding: 16px 35px;
+    background-color: #fff;
+    color: #6D44E5 !important;
+    font-weight: 500;
+}
+.action-btn-banner{
+    text-align: center;
+    margin: 40px auto;
+}
+
+.wix-payment-sec-space-top{
+    padding: 0px 0 12px;
+}
+
+.wix-payment-sec-space-bottom{
+    padding: 12px 0 80px;
+}
+
+.wix-payment-sec-space{
+    padding: 12px 0 12px;
+}
+
+.wix-payment-sec-space-slider{
+    padding: 38px 0;
+}
+
+.sub-heading{
+    font-size: 20px !important;
+    font-weight: 600 !important;
+    line-height: 38px !important;
+    /* margin: 20px 15px 0!important; */
+
+}
+
+.heading-size-new{
+    font-size:40px!important;
+    margin-bottom: 30px !important;
+}
+
+
+.sub-heading-size-new{
+    font-size: 32px !important;
+    font-weight: 600 !important;
+    line-height: 38px !important;
+    /* margin: 20px 15px 0!important; */
+}
+.streamline{
+    padding: 80px 0px 80px 0px;
+    width: 100%;
+    background: transparent linear-gradient(123deg, #6D44E5 0%, #8056ff 100%)
+}
+.streamline h4{
+    text-align: center;
+    font-size: 40px;
+    font-weight: 600;
+}
+
+/* related-post-slider start */
+
+
+.container-fluid{
+    padding: 0 !important;
+}
+
+.card-text{
+    font-size: 18px;
+    font-weight: 500;
+}
+
+
+.related-post-slider .carousel-section {
+    overflow: hidden;
+}
+
+
+/* .related-post-slider .carousel-section .owl-carousel .owl-stage {
+  padding-left: 0 !important;
+  } */
+  .related-post-slider .carousel-section .owl-carousel .owl-stage-outer {
+  overflow: unset;
+
+  }
+  .related-post-slider .carousel-section .owl-carousel .owl-nav {
+     float: right;
+  }
+  .owl-theme .owl-nav [class*='owl-']:hover{
+      background: transparent !important;
+      color: #000!important;
+     
+   }
+   .owl-theme .owl-nav [class*='owl-']{
+      margin: 20px!important;
+      width: 28px;
+      border: 1px solid #c3c3c3;
+      /* border-radius: 50%; */
+      height: 28px;
+      font-size: 22px !important;
+      border: 1px solid #6a6a6a!important;
+      border-radius: 100%!important;
+   }
+   .owl-theme .owl-nav 
+  .related-post-slider .carousel-section .owl-carousel .owl-nav .owl-next,
+  .related-post-slider .carousel-section .owl-carousel .owl-nav .owl-prev {
+      width: 28px;
+      border: 1px solid #c3c3c3;
+      /* border-radius: 50%; */
+      height: 28px;
+      font-size: 22px;
+  }
+  .related-post-slider .carousel-section .owl-carousel .owl-nav .owl-next:focus,
+  .related-post-slider .carousel-section .owl-carousel .owl-nav .owl-prev:focus {
+  outline: 0;
+  }
+  .related-post-slider .carousel-section h2 {
+      font-size: 34px;
+      text-align: left;
+      font-weight: 700;
+  }
+  .related-post-slider .carousel-container {
+      max-width: 1140px;
+      padding-left: 15px;
+      padding-right: 15px;
+      margin: 0 auto;
+      width: 100%;
+      overflow: hidden;
+  }
+
+
+  .related-post-slider .carousel-item:first-child {
+    margin: 0 0px 0px 70px;
+}
+  
+  .related-post-slider .carousel-item__card {
+      /* box-shadow: 0 13px 31px #dce1ed; */
+  
+      border-radius: 12px;
+      margin: 30px 0 35px;
+      /* font-size: 30px; */
+      font-weight: 500;
+      /* border: 1px solid #dddddd; */
+  }
+  
+  .related-post-slider .owl-carousel {
+      display: block;
+      width: 100%;
+      z-index: 1;
+  }
+  
+  /* .related-post-slider .teller-card {
+
+  } */
+
+  .related-post-slider .card{
+     border: none !important;
+     box-shadow: 0 7px 23px 0 #0000000f;
+     padding: 1rem;
+     border-radius: 10px;
+     height: 380px;
+  }
+  
+  .accept_payments_title{
+      background: url(../img/home/homepage_new/mobile_section/accept_payment_bg.svg) no-repeat;
+      margin: 20px 0;
+      padding: 12px;
+      background-size: 45%;
+  }
+  
+  
+  .business_banking_payouts{
+      background: url(../img/home/homepage_new/mobile_section/payment_plus_bg.svg) no-repeat;
+      margin: 20px 0;
+      padding: 12px;
+  }
+  
+  .carousel-item__card{
+      background: url(../img/home/homepage_new/mobile_section/card.png) no-repeat;
+      background-size: 100% 102%;
+  }
+  
+  .owl-carousel .owl-item img {
+      display: inherit;
+      width: fit-content;
+  }
+/* 
+  .owl-item {
+    width: 350px !important;
+}
+   */
+
+   .card-body {
+    padding: 1.25rem 0 0 !important; 
+  }
+
+  .upload-date{
+    font-size: 11px;
+  }
+
+  .upload-date b{
+    color: #437DE9;
+  }
+
+  .upload-date-top{
+    font-size: 11px;
+    margin-bottom: 0 !important;
+  }
+
+  .upload-date-top b{
+    color: #6D44E5;
+  }
+
+
+  .blog-link{
+    color: inherit;
+  }
+
+  .blog-link:hover{
+    color: inherit;
+  }
+  
+  /* related-post-slider end */
+
+
+
+@media only screen and (max-width: 1600px){
+  .related-post-slider .card{
+    height: 350px;
+ }
+
+ .card-text{
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 27px;
+}
+
+ .related-post-slider .carousel-item:first-child {
+    margin: 0 0px 0px 50px;
+}
+
+.article-cta {
+    padding: 27px 0 27px;
+    position: sticky !important;
+    top: 20%;
+    width: 34vw;
+    height: fit-content;
+    margin-top: 17%;
+}
+}
+
+
+@media only screen and (max-width: 1024px){
+    .banner-heading-size-new {
+        font-size: 42px!important;
+        line-height: 58px!important;
+    }
+
+    .card-text {
+        font-size: 20px;
+        font-weight: 600;
+    }
+
+    .heading-size-new {
+        font-size: 35px!important;
+        margin-bottom: 30px !important;
+    }
+
+    .article-cta {
+        top: 17%;
+        margin-top: 21%;
+    }
+}
+
+@media only screen and (max-width: 991px) {
+  
+    .heading-size-new{
+        font-size:36px!important
+    }
+
+    .payment-banner__content.pl-spacing {
+        padding: 190px 0 100px !important;
+    }
+
+    .sub-heading-size-new {
+        font-size: 28px !important;
+    }
+
+    .article-cta {
+        display: none;
+    }
+
+    .related-post-slider .carousel-item:first-child {
+        margin: 0px 10px 0px 10px !important;
+    }
+
+    .d-block {
+        display: initial !important;
+    }
+
+    .streamline h4 {
+        font-size: 32px;
+    }
+    
+
+}
+
+
+@media only screen and (max-width: 768px) {
+    .banner-heading-size-new {
+        font-size: 28px !important;
+        line-height: 38px !important;
+    }
+
+    .wix-payment-sec-space-slider{
+        padding: 30px 0;
+    }
+
+    .streamline h4 {
+        font-size: 26px;
+    }
+
+    .streamline {
+        padding: 40px 0px 40px 0px;
+    }
+    
+
+}
+
+@media only screen and (max-width: 767px) {
+
+    .heading-size-new {
+        font-size: 26px!important;
+    }
+
+    .payment-banner__content.pl-spacing {
+        padding: 190px 0 100px !important;
+    }
+
+    .sub-heading {
+        font-size: 18px !important;
+        line-height: 26px !important;
+    }
+
+    .sub-heading-size-new {
+        font-size: 22px !important;
+        line-height: 26px !important;
+    }
+
+    .related-post-slider .card{
+        height: 350px;
+     }
+}
+
+@media only screen and (max-width: 420px){
+    .streamline h4 {
+        font-size: 22px;
+    }
+    
+}
+
+
+@media only screen and (max-width: 375px){
+    .heading-size-new {
+        font-size: 24px!important;
+    }
+
+    .sub-heading-size-new {
+        font-size: 20px !important;
+    }
+    
+}
+
+@media only screen and (max-width: 320px){
+    .heading-size-new {
+        font-size: 22px!important;
+    }
+    
+}

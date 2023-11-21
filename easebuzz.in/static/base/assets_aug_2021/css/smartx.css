@@ -1,0 +1,293 @@
+.skewblue-banner.smartx-banner{
+    background:linear-gradient(135deg,#210F6E 0%,#3E16E1 100%);
+}
+.smartx-about{
+    padding: 100px 0px 80px 0px;
+}
+.smartx-about h2{
+    font-size: 38px;
+}
+.smartx-computer{
+    display: block;
+    padding: 80px 0px 0px 0px;
+    width: 100%;
+}
+.smartx-mobile{
+    display: none;
+}
+.smartx-icon{
+    margin-bottom: 8px;
+    margin-left: 4px;
+}
+.choose-section.business-expenses{
+    text-align: center;
+}
+.business-expenses .choose-card .be-img{
+    padding: 0px 0px 30px 0px;
+}
+
+.choose-card.neo-border {
+    position: relative;
+    border: 1px solid transparent;
+    border-radius: 20px;
+    background: linear-gradient(#fff,#fff);
+    background-clip: padding-box;
+    padding: 10px;
+    box-shadow: 0px 3px 6px #00000029;
+    padding: 35px 51px 42px 51px;
+}
+
+.choose-card.neo-border::after {
+    position: absolute;
+    top: -4px; bottom: -4px;
+    left: -4px; right: -4px;
+    background: linear-gradient(#6D44E5, #85E6C4);
+    content: '';
+    z-index: -1;
+    border-radius: 16px;
+}
+.be-text{
+    color: #17243F;
+}
+.smartx-section {
+    padding: 0px 0px 100px 0px;
+}
+.smartx-section .bullet-icon{
+    margin-top: 6px;
+}    
+.smartx-section p{
+    font-size: 16px;
+}    
+.smartx-section h3{
+     color: #2A2A2A;
+     font-size: 38px;
+     font-weight: 600;
+     font-family: 'DM Sans';
+     text-align: center;
+     padding: 0px 0px 40px 0px;
+}
+.gseamless-section.smartx-section-one{
+    padding: 0px 0px 0px;
+}
+.smartx-section .payment-list__item{
+    margin-bottom: 6px !important;
+}
+.howitwroks-img img{
+    width: 100%;
+}
+.question-btn{
+    float: left !important;
+}
+.row.prepaid{
+    display: flex;
+    align-items: center;
+}
+.gdeveloper{
+    padding: 80px 0px 100px 0px !important;
+}
+.gdeveloper.bg{
+    background: url('../img/easebuzz/smartx/bg.png');
+    width: 100%;
+    background-size: 35% 84%;
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.more-with-smartx{
+    background: linear-gradient(224deg, #cfffee 9.8%, #d8b5ff 111.03%)!important;
+}
+.choose-section .choose-list__item .choose-card__img-x{
+    border: none !important;
+}
+.points-smartx{
+    padding: 80px 0px 80px 0px;
+}
+.smart-img{
+    background: url('../img/easebuzz/smartx/banner.png');
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: top;
+    display: flex;
+    justify-content: end;
+    
+}
+.banner-card{
+    display: flex;
+    justify-content: end;
+    margin-top: 40%;
+}
+.col-12.poweredby-1 {
+
+
+}
+.banner-line{
+    background: #fff;
+    color: #3E16E1;
+}
+
+
+
+.smartx-card-mobile{
+    display: none;
+}
+
+/* ***************************animation******************************************* */
+
+  
+.box {
+    align-self: center;
+    animation-duration: 7s;
+    animation-iteration-count: infinite;
+    /* background-color: #F44336; */
+    /* height: 200px; */
+    /* margin: 0 auto 0 auto; */
+    transform-origin: center;
+    width: 200px;
+}
+.bounce-1 {
+    animation-name: bounce-1;
+    animation-timing-function: linear;
+}
+@keyframes bounce-1 {
+    0%   { transform: translateY(0); }
+    50%  { transform: translateY(-100px); }
+    100% { transform: translateY(0); }
+}
+.yes_bank_logo img{
+    width: 25%!important;
+    padding-bottom: 2%!important;
+}
+.on-the-go{
+    font-size: 29px !important;
+}
+@media only screen and  (max-width:1024px){
+    .smartx-computer{
+        width: 100%;
+    }
+    .smartx-icon{
+        margin-bottom: 17px;
+    }
+    .bounce-1{
+        width: 65%;
+    }
+    .faq-section #faqpricing .card .card-header .btn-header-link .desc-head{
+        white-space: normal !important;
+    }
+
+    .smart-spacing{
+        padding: 190px 0 70px !important;
+    }
+    
+}
+
+
+@media only screen and (max-width:820px) {
+    .box{
+        align-self: end;
+    } 
+    .smart-img{
+        height: 500px;
+    }   
+}
+@media only screen and (max-width:800px) {
+    .points-smartx{
+        padding: 80px 0px 0x 0px !important;
+    }
+}
+@media only screen and (max-width:768px) {
+    .box{
+        align-self: end;
+    } 
+    .gdeveloper__img.one{float: none;margin: 0px auto;}
+    .smart-img{
+        height: 500px;
+    }   
+    .gdeveloper.bg{
+        background: none;
+    }
+    .price-heading{
+        text-align: center;
+        display: block !important;
+    }
+    .poweredby{text-align: center;}
+    .points-smartx{
+        padding: 80px 0px 0px 0px;
+    }
+    .gdeveloper{
+        padding: 45px 0px 100px 0px !important;
+    }
+    
+    .smartx-card-mobile{
+        display: block;
+    }
+
+    .smartx-card{
+        display: none;
+    }
+
+
+
+}
+
+
+@media only screen and  (max-width:767px){
+    .smartx-computer{
+        display: none;
+    }
+    .smart-img {
+        display: none;
+    }
+    .bounce-1{
+        display: none;
+    }
+    .smartx-mobile{
+        display: block;
+        width: 100%;
+        padding: 40px 0px 80px 0px;
+    }
+    .smartx-about h2{
+        font-size: 24px;
+        text-align: center;
+    }
+    .smartx-about{
+        padding: 40px 0px 0px 0px;
+    }
+    .smartx-icon{
+        margin-bottom: 18px;
+        margin-left: 0px;
+        /* float: left; */
+        width: 58%;
+        display: flex;
+    }
+    .choose-section .choose-list__item{
+        justify-content: center !important;
+    }
+    .choose-section .choose-list__item .choose-card{
+        width: 100%;
+    }
+    .gdeveloper.bg{
+        background: none;
+    }
+    .howitwroks h3{
+        font-size: 24px;
+    }
+    .points-smartx{
+        padding: 80px 0px 25px 0px;
+    }
+    .gseamless-section{
+        padding: 20px 0;
+    }
+    .price-heading{
+        text-align: center !important;
+        display: block !important;
+    }
+    .eb-head{
+        text-align: center !important;
+    }
+    .on-the-go{
+        font-size: 18px !important;
+        text-align: center;
+    }
+    .col-12.poweredby-1{
+
+    }
+}

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+  <g id="managing_complex_subs" data-name="managing complex subs" transform="translate(-5643 -1408)">
+    <rect id="Rectangle_2399" data-name="Rectangle 2399" width="40" height="40" transform="translate(5643 1408)" fill="none"/>
+    <g id="Group_9123" data-name="Group 9123" transform="translate(4 5.56)">
+      <path id="Subtraction_50" data-name="Subtraction 50" d="M27,26.88H5a5.006,5.006,0,0,1-5-5V5A5.006,5.006,0,0,1,5,0H27a5.006,5.006,0,0,1,5,5V21.88A5.006,5.006,0,0,1,27,26.88ZM9.92,1.28a.96.96,0,1,0,.96.96A.961.961,0,0,0,9.92,1.28Zm-3.2,0a.96.96,0,1,0,.959.96A.961.961,0,0,0,6.72,1.28Zm-3.2,0a.96.96,0,1,0,.96.96A.961.961,0,0,0,3.52,1.28Z" transform="translate(5643 1409)" fill="#85e6c4"/>
+      <path id="Subtraction_48" data-name="Subtraction 48" d="M31.973,4.48H.027A5,5,0,0,1,5,0H27a5,5,0,0,1,4.973,4.479ZM9.92,1.28a.96.96,0,1,0,.96.96A.961.961,0,0,0,9.92,1.28Zm-3.2,0a.96.96,0,1,0,.959.96A.961.961,0,0,0,6.72,1.28Zm-3.2,0a.96.96,0,1,0,.96.96A.961.961,0,0,0,3.52,1.28Z" transform="translate(5643 1409)" fill="#6d44e5"/>
+      <rect id="Rectangle_2392" data-name="Rectangle 2392" width="5.973" height="3.733" rx="1" transform="translate(5646.733 1416.467)" fill="#6d44e5"/>
+      <rect id="Rectangle_2393" data-name="Rectangle 2393" width="8.96" height="3.733" rx="1" transform="translate(5646.733 1422.44)" fill="#6d44e5"/>
+      <rect id="Rectangle_2394" data-name="Rectangle 2394" width="11.947" height="3.733" rx="1" transform="translate(5646.733 1428.413)" fill="#6d44e5"/>
+    </g>
+  </g>
+</svg>

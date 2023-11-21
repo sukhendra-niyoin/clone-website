@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="42" height="42" viewBox="0 0 42 42">
+  <g id="Group_19871" data-name="Group 19871" transform="translate(-66 -1404)">
+    <rect id="Rectangle_6757" data-name="Rectangle 6757" width="42" height="42" transform="translate(66 1404)" fill="#fff"/>
+    <g id="Group_19869" data-name="Group 19869" transform="translate(3347.85 1190.894) rotate(90)">
+      <g id="Group_19678" data-name="Group 19678" transform="translate(215.106 3273.085) rotate(-90)">
+        <g id="empty-battery" transform="translate(0 38) rotate(-90)">
+          <g id="Group_19677" data-name="Group 19677" transform="translate(0 0)">
+            <path id="Path_26861" data-name="Path 26861" d="M36.273,7.567V3.783A3.63,3.63,0,0,0,32.818,0H3.455A3.63,3.63,0,0,0,0,3.783V18.917A3.63,3.63,0,0,0,3.455,22.7H32.818a3.63,3.63,0,0,0,3.455-3.783V15.133A1.815,1.815,0,0,0,38,13.242V9.458A1.815,1.815,0,0,0,36.273,7.567ZM34.546,9.458v9.459a1.815,1.815,0,0,1-1.727,1.892H3.455a1.815,1.815,0,0,1-1.727-1.892V3.783A1.815,1.815,0,0,1,3.455,1.892H32.818a1.815,1.815,0,0,1,1.727,1.892V9.458Z" transform="translate(0 0)" fill="#6d44e5"/>
+          </g>
+        </g>
+        <rect id="Rectangle_6715" data-name="Rectangle 6715" width="33.051" height="19.209" rx="1" transform="translate(1.789 36.32) rotate(-90)" fill="#6d44e5"/>
+      </g>
+      <path id="flash" d="M10.935,6.239H6.253L10.593,0H5.126L0,9.359H4.032L0,18.093Z" transform="translate(225.998 3267.202) rotate(-90)" fill="#81e4c5"/>
+    </g>
+  </g>
+</svg>

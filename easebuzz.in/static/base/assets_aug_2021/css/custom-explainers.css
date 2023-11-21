@@ -1,0 +1,105 @@
+
+
+.explainers-banner{
+    background: linear-gradient(286deg, #5536B3 0%, #365396 100%) 0% 0% no-repeat padding-box !important;
+}
+
+.explainers-banner__content{
+    padding: 220px 0 165px !important;
+}
+
+.explainers-space{
+    padding: 60px 0;
+}
+
+.banner-heading-size-new {
+    font-size: 48px!important;
+    line-height: 58px!important;
+}
+
+.heading-size-new{
+    font-size:40px!important;
+    padding-bottom: 15px;
+    margin-bottom: 0 !important;
+}
+
+.explainers-card-title{
+    padding-top: 30px;
+}
+
+.explainers-card{
+    background: #EDF2FC !important;
+    border: 0 !important;
+    box-shadow: 0px 0px 10px #00000014 !important;
+    border-radius: 20px !important;
+    margin: 0.5rem !important;
+    padding: 20px;
+}
+
+.card-row{
+    width: 100%;
+}
+
+.card-row .card-body {
+    padding: 0rem !important;
+}
+
+.card-row .card-text{
+    font-size: 18px !important;
+    font-weight: 600 !important;
+    color: #2A2A2A !important;
+}
+
+
+
+@media only screen and (max-width: 1024px){
+    .banner-heading-size-new {
+        font-size: 42px!important;
+        line-height: 58px!important;
+    }
+}
+
+
+@media only screen and (min-width: 992px) {
+    .card-row{
+        flex-wrap: nowrap !important;
+    }    
+}
+
+@media only screen and (max-width: 991px) {
+  
+    .heading-size-new{
+        font-size:36px!important
+    }
+
+    .card-row {
+        margin: 0 auto !important;
+    }
+
+    .card-text{
+        margin-top: 1rem !important;
+    }
+
+    .explainers-card {
+        margin: 0.5rem 0rem !important;
+
+    }
+}
+
+@media only screen and (max-width: 768px) {
+    .banner-heading-size-new {
+        font-size: 28px !important;
+        line-height: 38px !important;
+    }
+}
+
+@media only screen and (max-width: 767px) {
+
+    .heading-size-new{
+        font-size:26px!important
+    }
+
+    .explainers-banner__content {
+        padding: 190px 0 100px !important;
+    }
+}

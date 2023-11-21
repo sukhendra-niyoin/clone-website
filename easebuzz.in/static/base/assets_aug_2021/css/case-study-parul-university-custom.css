@@ -1,0 +1,395 @@
+
+
+
+.parulLogo{
+    width: 100%;
+}
+
+
+.que-ans-y {
+    padding-left: 0 !important;
+}
+
+
+
+.case_study__heading-e h1 {
+    font-family: "DM Sans",sans-serif;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 46px;
+    padding: 0px 0 16px !important;
+}
+
+.nav-h .payment-banner__content-e{
+    padding: 80px 0 50px !important;
+}
+
+
+
+
+/* testimenial section start */
+
+.slick-slider {
+    margin: 30px auto 0px;
+}
+.slick-next,
+.slick-prev {
+    border: 1px solid #8f93a8 !important;
+    border-radius: 50%;
+    position: absolute;
+    top: 50%;
+    display: block;
+    width: 32px !important;
+    height: 32px !important;
+    margin-top: -10px;
+    padding: 0;
+    color: transparent;
+    background: 0 0;
+}
+.slick-next path,
+.slick-prev path {
+    fill: #8f93a8 !important;
+}
+.slick-next:hover path,
+.slick-prev:hover path {
+    fill: #6d44e5 !important;
+}
+.slick-prev {
+    left: -50px;
+}
+.slick-next {
+    right: -50px;
+}
+.slick-next:before,
+.slick-prev:before {
+    content: none;
+}
+.slick-dots {
+    position: absolute;
+    display: block;
+    width: 100%;
+    padding: 0;
+    list-style: none;
+    text-align: center;
+}
+.slick-dots li {
+    position: relative;
+    width: 20px;
+    height: 20px;
+    margin: 0 5px;
+    padding: 0;
+    cursor: pointer;
+}
+.slick-dots li button {
+    width: 15px;
+    height: 15px;
+    /* margin: 3px; */
+    /* padding: 5px; */
+    border: 0;
+    color: #cccccc00;
+    border-radius: 50%;
+    background: #ccc;
+}
+.full-stack-mobile .carousel-section .owl-carousel .owl-nav .owl-next:focus,
+.full-stack-mobile .carousel-section .owl-carousel .owl-nav .owl-prev:focus,
+.slick-dots li button:focus,
+.slick-dots li button:hover {
+    outline: 0;
+}
+.slick-dots li button:focus:before,
+.slick-dots li button:hover:before {
+    opacity: 1;
+}
+.slick-dots li button:before {
+    font-family: slick;
+    font-size: 20px;
+    line-height: 20px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 15px;
+    height: 15px;
+    content: "•";
+    text-align: center;
+    opacity: 0.25;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+.slick-dots li.slick-active button:before {
+    opacity: 0.75;
+    background: #6d44e5 !important;
+    border-radius: 100px;
+    color: #6d44e5;
+}
+
+.inline-b-item, .slick-dots li {
+    display: inline-block;
+}
+
+.slick-dots li button,
+.slick-next,
+.slick-prev {
+    font-size: 0;
+    line-height: 0;
+    cursor: pointer;
+    outline: 0;
+    display: block;
+}
+
+blockquote {
+    margin: 0 0 20px;
+    line-height: 1.5;
+    font-style: normal !important;
+    color: #2a2a2a;
+}
+.quote-container {
+    min-height: 200px;
+    color: #666;
+    font-size: 36px;
+    margin: 0 20px;
+    position: relative;
+}
+.quote-container:hover {
+    cursor: grab;
+}
+.quote-container .portrait {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    margin: 21px auto;
+    height: 140px;
+    width: 140px;
+    overflow: hidden;
+}
+
+.quote-container .portrait img {
+    display: block;
+    height: auto;
+    width: 100%;
+}
+
+.quote-container .quote {
+    position: relative;
+    z-index: 600;
+    padding: 40px 0 0px 180px;
+    margin: 0;
+    font-size: 20px;
+    font-style: italic;
+    line-height: 1.4 !important;
+    color: #fff;
+}
+.quote-container .quote p {
+    position: relative;
+    margin-bottom: 20px;
+    margin-left: 35px;
+}
+.quote-container .quote p:first-child:before {
+    content: "";
+    height: 60px;
+    width: 60px;
+    background-image: url("../img/home/homepage_new/testimonial/inverted_comma.svg");
+    -webkit-background-size: contain;
+    background-size: contain;
+    background-repeat: no-repeat;
+    position: absolute;
+    top: -25px;
+    left: -45px;
+}
+.quote-container .quote cite {
+    display: block;
+    font-size: 14px;
+    margin-left: 15px;
+}
+.testi-img img {
+    width: 100%;
+    height: min-content;
+    margin-left: 35px;
+}
+.quote-container .quote cite span {
+    font-size: 16px;
+    font-style: normal;
+    letter-spacing: 1px;
+    font-weight: 600;
+}
+.dragging .quote-container {
+    cursor: grabbing;
+}
+
+.docopd {
+    width: 121px !important;
+}
+.dexpert,
+.m2m {
+    width: 75px !important;
+}
+
+
+/* testimenial section end */
+
+
+
+.count-text-w {
+    width: 80%;
+}
+
+
+
+@media (max-width:1024px){
+
+    .h-space{
+        margin-bottom: 40px !important;
+    }
+
+    .count-text-w {
+        font-size: 17px!important;
+    }
+
+}
+
+
+@media (max-width:991px){
+    
+    .nav-h .payment-banner__content-e {
+        padding: 80px 0 35px !important;
+    }
+
+    .count-text-w {
+        width: 90%;
+    }
+
+
+    .product-offer {
+        display: flex;
+        flex-direction: column;
+        width: 40%;
+        align-items: center;
+        margin: 0 auto;
+    }
+
+    .space-parul-testi{
+        padding: 30px 0 30px !important;
+    }
+    
+
+}
+
+@media (max-width: 767px){
+
+    .studycase-content-e h2 {
+        line-height: 32px !important;
+        margin-bottom: 20px;
+    }
+
+    .h-space{
+        margin-bottom: 60px !important;
+    }
+    
+    .payment-list.new-gri{
+        display: block !important;
+    }
+
+    .quote-container .portrait {
+        position: relative;
+        margin: 0px auto !important;
+        height: 140px;
+        width: 140px;
+        overflow: hidden;
+    }
+    
+    .quote-container .quote {
+        position: relative;
+        z-index: 600;
+        padding: 20px;
+        margin: 0;
+        font-size: 20px;
+        font-style: italic;
+        line-height: 1.4 !important;
+        color: #fff;
+    }
+
+    /* .new-gri-w {
+        display: flex;
+        justify-content: space-between;
+        padding: 0px !important;
+        align-items: center;
+    } */
+
+    .new-gri-w {
+        display: flex !important;
+        justify-content: space-between !important;
+        padding: 0px !important;
+        flex-direction: row;
+        flex-wrap: wrap !important;
+      }
+
+    .product-offer {
+        width: 100%;
+    }
+
+    .product-offer .small-text{
+        text-align: center;
+    }
+
+    .product-offer  .bullet-icon {
+        margin-right: 0px !important;
+    }
+
+    .new-gri-w li {
+        width: 50% !important;
+    }
+
+}
+
+
+@media (max-width: 600px) {
+
+    .quote-container .portrait {
+        position: static !important;
+    }
+    
+    .quote-container .quote {
+        position: relative;
+        z-index: 600;
+        padding: 25px;
+        margin: 0;
+        line-height: 1.4 !important;
+        color: #fff;
+    }
+    
+    .quote-container .quote cite {
+        margin-left: 0px;
+    }
+    
+    .quote-container .quote p {
+        position: relative;
+        margin-bottom: 20px;
+        margin-left: 0px !important;
+    }
+    
+    .testi-img img {
+        width: 100%;
+        height: min-content;
+        margin-left: 0px !important;
+    }
+
+}
+
+
+@media only screen and (max-width: 575px) and (min-width: 426px) {
+    .slick-slider {
+        margin: 0px 70px;
+    }
+}
+
+@media (max-width: 425px) {
+
+    .testi-img {
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+    }
+
+}
+
+
+

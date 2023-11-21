@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <g id="sales" transform="translate(-135 -1215)">
+    <rect id="Rectangle_6601" data-name="Rectangle 6601" width="48" height="48" transform="translate(135 1215)" fill="none"/>
+    <g id="Group_19137" data-name="Group 19137" transform="translate(1 1)">
+      <path id="Polygon_7" data-name="Polygon 7" d="M31.675,0a5,5,0,0,1,4.332,2.5l8.641,15a5,5,0,0,1,0,4.992l-8.641,15A5,5,0,0,1,31.675,40H14.412a5,5,0,0,1-4.332-2.5l-8.641-15a5,5,0,0,1,0-4.992l8.641-15A5,5,0,0,1,14.412,0Z" transform="translate(135 1218)" fill="#6d44e5"/>
+      <rect id="Rectangle_6598" data-name="Rectangle 6598" width="3.478" height="15.652" rx="1.739" transform="translate(156.739 1233.652)" fill="#85e6c4"/>
+      <rect id="Rectangle_6600" data-name="Rectangle 6600" width="3.478" height="20.87" rx="1.739" transform="translate(163.696 1228.435)" fill="#85e6c4"/>
+      <rect id="Rectangle_6599" data-name="Rectangle 6599" width="3.478" height="10.435" rx="1.739" transform="translate(149.783 1238.87)" fill="#85e6c4"/>
+    </g>
+  </g>
+</svg>

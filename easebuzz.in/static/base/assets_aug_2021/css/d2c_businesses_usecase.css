@@ -1,0 +1,43 @@
+
+
+
+.payment-events-banner {
+    background: linear-gradient(114deg, #0C2E81 0%, #517CE3 100%) 0% 0% no-repeat padding-box!important;
+}
+
+.heading-size-new {
+    font-size: 40px!important;
+}
+
+
+.mbottopm-w{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+
+
+@media (max-width: 991px){
+    .d-block.each4{
+        display: inline !important;
+    }
+}
+
+@media (max-width: 767px){
+    .heading-size-new {
+        font-size: 24px !important;
+        line-height: 32px !important;
+    }
+    .d-block.each4{
+        display: inline !important;
+    }
+}
+@media (max-width: 766px){
+    .small-text {
+        text-align: left !important;
+    }
+    .d-block.each4{
+        display: inline !important;
+    }
+}

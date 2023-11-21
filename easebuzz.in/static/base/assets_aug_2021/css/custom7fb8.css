@@ -1,0 +1,1276 @@
+.heading-n {
+    text-align: center;
+}
+
+.link-btn-color-purple{
+    background: #fff;
+    color: #6D44E5 !important;
+}
+header .nav{
+    z-index: 2 !important;
+}
+
+.easyquestion-section .easyquestion.custom-bg {
+    background: #fff5e8;
+    margin: 80px 0 80px 0;
+}
+.easyquestion-section .easyquestion.mt-for-insta {
+    margin: 10px 0 120px 0;
+}
+.about-head-sec {
+    margin-bottom: 25px;
+}
+.about-wire p {
+    font-size: 20px;
+    line-height: 33px;
+    text-align: center;
+}
+.blur-bg {
+    background: #f2f2f2;
+    max-width: 100%;
+    padding: 40px 40px 40px 40px;
+    border-radius: 30px;
+}
+.solution-section .solution__heading.dr {
+    font-size: 24px;
+}
+.blur-bg h2 {
+    margin-bottom: 40px;
+}
+.blur-bg h3 {
+    margin-bottom: 40px;
+}
+.blur-bg ul li {
+    font-size: 20px;
+    line-height: 40px;
+}
+.key-benefits {
+    padding-bottom: 120px;
+}
+ol {
+    display: block;
+    list-style-type: decimal;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    padding-left: 40px;
+}
+.list-group {
+    line-height: 50px;
+    padding: 25px 0;
+    font-size: 20px;
+}
+.list-group .badge {
+    background: #f2e6ff;
+    border-radius: 5px;
+    font-size: 14px;
+    padding: 4px;
+    color: #3d1c61;
+}
+.endtoend {
+    max-width: 100%;
+}
+.heading-new {
+    padding-bottom: 20px;
+}
+.features-list {
+    margin-top: 2%;
+}
+.demo-call {
+    max-width: 768px !important;
+}
+h3.hear {
+    font-size: 26px;
+    margin-bottom: 40px;
+}
+.ex {
+    margin-bottom: 10px;
+}
+.developer-section .developer .developer-heading,
+.features .features-heading.why-ease {
+    margin-bottom: 10px;
+    font-size: 36px;
+}
+
+.testimonial-section{
+    height: 427px;
+}
+/* *******css for easebuzz exaplainers********* */
+.gx-5{
+ 
+}
+/* *******css for easebuzz exaplainers********* */
+
+
+@media only screen and (max-width: 425px){
+    .testimonial-section{
+        height: 520px;
+    }
+}
+
+
+.testimonial-section .testimonial-heading.testimonial-new {
+    margin: 0 auto;
+    margin-bottom: 10px;
+}
+.about-head-sec.wt {
+    text-align: center;
+}
+.integration {
+    font-size: 23px;
+    line-height: 31px;
+}
+.wire-form {
+    padding-bottom: 100px;
+}
+.payment-gateway-banner {
+    background: linear-gradient(254.18deg, #1eefb0 0.81%, #7d0eff 100.03%);
+}
+.enterprise.epos{
+    background: transparent;
+}
+h2.how-epos{
+    margin-bottom: 40px;
+}
+.epos-banner{
+    background: linear-gradient(253deg, #6D44E5 0%, #1EEFB0 100%) 0% 0%;
+    border-radius: 0px 0px 0px 250px;
+}
+.epos-ptb{
+    padding: 0px 0px 120px;
+}
+.epos-border a{
+    color: #050505;
+}
+.epos-border a:hover{
+    color: #050505;
+}
+.easy-collect-banner {
+    background: linear-gradient(254.18deg, #1eefb0 0.81%, #7d0eff 100.03%) !important;
+}
+.payment-link-banner {
+    background: linear-gradient(254.18deg, #7d0eff 0.81%, #aa2589 100.03%);
+}
+.feesbuzz-banner {
+    background: linear-gradient(254.18deg, #7d0eff 0.81%, #aa2589 100.03%);
+}
+
+.capital-banner{
+    background:linear-gradient(254.18deg, #7d0eff 0.81%, #aa2589 100.03%)!important;
+}
+
+.wire-banner {
+    background: linear-gradient(254.18deg, #aa2589 0.81%, #eb512f 100.03%);
+}
+.buildbuzz-banner {
+    background: linear-gradient(254.18deg, #aa2589 0.81%, #eb512f 100.03%) !important;
+}
+.webstores-banner {
+    background: linear-gradient(254.18deg, #dfe234 -25.19%, #eb512f 100.03%) !important;
+}
+.smartbilling-banner {
+    background: linear-gradient(254.18deg, #dfe234 -25.19%, #eb512f 100.03%) !important;
+}
+.slices-banner {
+    background: linear-gradient(254.18deg, #1eefb0 0.81%, #4e5ff9 100.03%) !important;
+}
+.tellers-banner {
+    background: linear-gradient(254.18deg, #aa2589 0.81%, #eb512f 100.03%) !important;
+}
+.ecommerce-banner {
+    background: linear-gradient(254.18deg, #dfe234 -25.19%, #eb512f 100.03%) !important;
+}
+.educational-banner {
+    background: linear-gradient(254.18deg, #dfe234 -25.19%, #1eefb0 100.03%) !important;
+}
+.marketplace-banner {
+    background: linear-gradient(254.18deg, #aa2589 0.81%, #eb512f 100.03%) !important;
+}
+.newstore-banner {
+    background: linear-gradient(115deg, #3e16e1 0, #aa2589 100%) !important;
+}
+.service .service-list__item .secrvice-card.first-card {
+    padding: 24px 40px 130px 24px;
+    margin-bottom: 40px;
+    border: 1px solid rgba(62, 22, 225, 0.25);
+    border-radius: 8px;
+    box-shadow: 0 7px 10px rgb(0 0 0 / 9%);
+    box-sizing: border-box;
+}
+.service .service-list__item .secrvice-card.sec-card {
+    padding: 24px 40px 214px 24px;
+    border: 1px solid rgba(62, 22, 225, 0.25);
+    border-radius: 8px;
+    box-shadow: 0 7px 10px rgb(0 0 0 / 9%);
+    box-sizing: border-box;
+}
+.service .service-list__item .secrvice-card__img-w.w-img {
+    top: 25%;
+    right: -6px;
+}
+.service .service-list__item .secrvice-card .service-para.sec-para {
+    position: absolute;
+    bottom: 25px;
+}
+.secrvice-card__img.ht {
+    max-height: 240px;
+}
+.banner-img-w.buildbuzz-png {
+    top: 50%;
+}
+.help .help-card__text.initiate-p {
+    font-size: 37px;
+}
+.help .help-card__text.initiate-auto {
+    font-size: 32px;
+}
+.platform__imgWrp {
+    overflow: hidden;
+}
+.easy-banner__content .banner-heading.sm-banner-head {
+    font-size: 38px;
+    line-height: 62px;
+}
+.payment-banner__content .banner-heading.wire-banner-text {
+    font-size: 38px;
+}
+.banner-img-w.feesbuzz-vector {
+    top: 55%;
+}
+.payment-banner__content.buildbuzz-spacing {
+    padding: 140px 0 140px;
+}
+.payment-banner__content.pg-spacing {
+    padding: 190px 0 140px;
+}
+.payment-banner__content.pl-spacing {
+    padding: 140px 0 140px;
+}
+.payment-banner__content.wire-spacing {
+    padding: 140px 0 140px;
+}
+.payment-banner__content.slices-spacing {
+    padding: 140px 0 140px;
+}
+.payment-banner__content.webstore-spacing {
+    padding: 140px 0 140px;
+}
+.payment-banner__content.easycollect-spacing {
+    padding: 140px 0 140px;
+}
+.payment-banner__content.feebuzz-spacing {
+    padding: 140px 0 140px;
+}
+.payment-banner__content.smart-spacing {
+    padding: 140px 0 140px;
+}
+.payment-banner__content.teller-spacing {
+    padding: 140px 0 140px;
+}
+.capital-banner__content.capital-spacing {
+    padding: 140px 0 15px;
+}
+.payment-banner__content.insta-spacing {
+    padding: 140px 0 140px;
+}
+.glance {
+    padding: 0 0 120px;
+}
+.gatewaylooks-img-w.pb-wonder {
+    padding-bottom: 120px;
+}
+.home-banner__content .integrated-list__item {
+    margin-right: 33px;
+    width: auto;
+}
+.blur-bg.mt-40-bg {
+    margin-top: 60px;
+}
+.payment-list.new-gri {
+    margin-top: 40px;
+}
+.pricing-banner__content .align-btns-center {
+    justify-content: center;
+}
+#btnClear,
+#btnSearch {
+    padding: 16px 40px;
+    border: 1px solid #4e5ff9;
+    color: #4e5ff9 !important;
+    border-radius: 16px;
+}
+.pg-btn {
+    margin-top: 25px;
+}
+.help-button-list.v-align {
+    padding: 70px 0;
+}
+.solution-section .solution__heading.cta-pg {
+    font-size: 24px;
+}
+.table-content.ptb-mtb {
+    padding: 50px 0 50px 0;
+}
+.table-design th {
+    font-size: 18px;
+    border: 1px solid #000 !important;
+}
+.table-design td {
+    font-size: 15px;
+    border: 1px solid #000 !important;
+}
+.para-ptb-mtb {
+    padding-top: 50px;
+}
+.footer__submit {
+    top: 15px;
+}
+
+.footer-developers{
+    margin-top: 45px!important;
+}
+
+@media only screen and (max-width: 767px){
+    .footer-developers{
+        margin-top: 24px!important;
+    }
+
+    .use-case-footer {
+        margin-top: 24px!important;
+    }
+}
+
+h3.textfor {
+    font-size: 20px;
+}
+.small-bussines.about-easyc {
+    padding: 0;
+}
+.product-tagline {
+    font-size: 22px;
+    line-height: 60px;
+}
+.gateway-payment.about-products {
+    padding: 0 0 100px 0;
+}
+
+.capital_benifits_padding{
+    padding: 120px 0 0 0;
+}
+
+.sp-t-b {
+    padding: 100px 0;
+}
+.slices-process {
+    padding-bottom: 120px;
+}
+.slices-head {
+    margin-bottom: 40px;
+}
+.nav-icon {
+    padding-right: 8px;
+}
+.b-flow {
+    width: 700px;
+}
+.bg-address {
+    border: 1px solid #edecec;
+    background: 0 0;
+    box-shadow: 0 0 20px rgb(0 0 0 / 8%);
+}
+.location-head {
+    color: #111;
+}
+.iconbullet.img {
+    width: 100%;
+}
+.privacy #faq .card .card-header .btn-header-link .desc-head,
+.story-section .timeline .timeline-list__item .timeline-card .month {
+    font-size: 18px;
+}
+.form-section-new {
+    padding: 50px;
+    border: 1px solid #f3f0f0;
+    border-radius: 17px;
+    box-shadow: 0 3px 10px #e8e8e8 !important;
+}
+h3.psignup {
+    padding-bottom: 50px;
+}
+.ui.progress .bar {
+    background: #1defb0;
+}
+.sub {
+    background: linear-gradient(135deg, #484eff 0, #1eefb0 94.79%) !important;
+}
+.ps-form {
+    border-radius: 5px !important;
+}
+.form-input.new-field {
+    border-radius: 10px !important;
+    padding: 30px;
+}
+.new-address {
+    border-radius: 10px !important;
+    height: 13em !important;
+}
+.partner-sign {
+    text-align: center;
+}
+.btn-center {
+    float: right;
+}
+.gdeveloper.g-sec {
+    padding-top: 20px !important;
+}
+.w-top {
+    padding-bottom: 40px;
+    text-align: center;
+}
+.counter-top .counter-img-w .counter-img {
+    border-radius: 14px;
+}
+.default-first {
+    box-shadow: 0 3px 30px #e8e5e5 !important;
+    padding: 25px;
+}
+.secure-certificates {
+    padding-bottom: 120px;
+}
+.default-second {
+    box-shadow: 0 3px 30px #e8e5e5 !important;
+    padding: 25px;
+}
+.mb-price {
+    margin-bottom: 80px !important;
+}
+.certificate-section .certificate-list {
+    justify-content: flex-center !important;
+}
+.space-top {
+    padding-top: 0;
+}
+.market {
+    margin-bottom: 20px;
+}
+.loan-section h4 {
+    text-align: center;
+}
+.loan-section p {
+    text-align: center;
+    margin-bottom: 60px;
+}
+.sp-bt {
+    margin-bottom: 20px !important;
+}
+.sp-btg {
+    margin-bottom: 50px !important;
+}
+.certificate-section .certificate-head {
+    padding: 79px 0 79px 0;
+}
+.certificate-section .certificate-list.a-align {
+    justify-content: right;
+}
+
+.certificate-section .certificate-list__item .lightbox-target:target {
+    z-index: 9999999999 !important;
+}
+.feature-table {
+    padding: 40px 0 120px 0;
+}
+.table-shadow {
+    box-shadow: 0 3px 30px #e8e5e5;
+    border-radius: 6px;
+    padding: 20px;
+}
+.table-shadow .ui.table thead th {
+    font-size: 16px;
+}
+.table-shadow .ui.table td {
+    font-size: 18px;
+}
+.payment-acceptance-section .payment-acceptance .acceptance-img {
+    width: 500px;
+    height: auto;
+}
+.use-case-about {
+    text-align: center;
+}
+.use-case-pb {
+    padding-bottom: 80px;
+    padding-top: 80px;
+}
+.gen {
+    font-size: 32px;
+    text-align: center;
+}
+.we-re {
+    text-align: center;
+}
+.m-payment {
+    text-align: center;
+}
+.market_head {
+    text-align: center;
+}
+.feesbuzz-about {
+    text-align: center;
+}
+.badge-img {
+    width: auto;
+}
+.certificate-section .certificate-list {
+    justify-content: center !important;
+}
+.certificate-section .certificate-list__item {
+    justify-content: center !important;
+    display: grid;
+}
+.certificate-section {
+    padding-top: 60px !important;
+    padding-bottom: 60px !important;
+}
+.textfor {
+    font-size: 20px;
+}
+.use-case-footer {
+    margin-top: 45px;
+}
+.usecase-fees {
+    width: auto;
+}
+.returnrefund {
+    padding: 65px 0 65px;
+}
+.smartbilling-about {
+    padding: 0 0 100px 0;
+}
+.teller-about {
+    padding: 0 0 100px 0;
+}
+.about-lending {
+    padding: 0 0 100px 0;
+}
+.help.insta-c {
+    padding: 120px 0 0 0;
+}
+.mb-header-nav h3 {
+    font-size: 16px;
+    color: #17243f;
+}
+.mb-header-nav .product_id{
+    font-size: 16px;
+    color: #17243f;
+    font-weight: 500;
+}
+.awards-box .certificate-list {
+    padding-bottom: 20px;
+    align-items: center;
+    flex-wrap: nowrap;
+}
+.awards-box .certificate-list__item {
+    width: 25%;
+}
+.mb-header-nav h2 {
+    font-size: 16px;
+    line-height: 26px;
+    cursor: auto !important;
+    background: -webkit-linear-gradient(315deg, #484eff 0, #1eefb0 94.79%);
+    background: -o-linear-gradient(315deg, #484eff 0, #1eefb0 94.79%);
+    background: linear-gradient(135deg, #484eff 0, #1eefb0 94.79%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-weight: 500;
+    font-family: "DM Sans";
+}
+.epos_vector{
+    background:transparent linear-gradient(243deg, #e4fff7 0%, #efe1ff 100%) 0% 0% no-repeat;
+    border-radius: 21px 21px 21px 21px;
+    padding: 50px;
+    display: flex;
+    flex-direction: column;
+    height: auto;
+    justify-content: space-evenly;
+}
+.epos_vector div{
+    padding: 40px 10px 40px 10px;
+}
+.vector_bottom{
+    padding: 60px;
+}
+.help-button-list.wire_cta{
+    justify-content: center !important;
+    padding: 30px 0;
+}
+.banner-heading.wire_sp{margin-bottom: 10px;}
+.pg-onpage{font-size: 40px !important;}
+.pg-vec{
+    box-shadow: 0 0 6px 1px rgb(0 0 0 / 10%);
+}
+
+
+.faq-section {
+    padding: 80px 0;
+    background: #A7BDF1 !important;
+}
+
+.faq-section #faqpricing .card .card-header .btn-header-link{
+    color: #2A2A2A !important;
+}
+
+.faq-section #faqpricing .card .card-header .btn-header-link:not(.collapsed) .desc-head{
+    font-weight: 700 !important;
+}
+
+
+.faq-section #faqpricing .card .card-header .btn-header-link.collapsed {
+    background: rgba(255, 255, 255, 0.5) !important;
+    color: #2A2A2A !important;
+}
+
+.header-sign-up .sign-up{
+        color: #6D44E5 ;
+        border-radius: 10px;
+}
+
+.header-transparent .sticky .sign-up{
+    color: #fff !important;
+    border-radius: 10px;
+}
+
+.link-btn--white, .link-btn--line{
+    border-radius: 10px;
+}
+
+/* .howitwroks-section.tellerbuzzmore {
+    padding: 0 0 0px !important;
+    position: relative;
+} */
+
+/* footer new added for payment gateway */
+.childfooter{
+    background-color: #F5F5F5;
+    padding-bottom: 30px;
+    padding-top: 30px;
+    
+}
+.childfooter h3{
+    font-size: 14px;
+    color: #2a2a2a;
+    font-weight: bold;
+    font-family: DM Sans ;
+}
+.childfooter .diff{
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.childfooter .diff ul li{
+    margin-bottom: 20px;
+    font-size: 13px;
+}
+.childfooter .diff .sec li{
+    margin-bottom: 5px;  
+}
+.ml-15{
+    margin-left: 15px;
+}
+@media only screen and (min-width: 960px) and (max-width: 1920px) {
+    .best-billing-section .best-billing .best-billing-img {
+        width: 100%;
+    }
+}
+@media only screen and (min-width: 700px) and (max-width: 991px) {
+    .showimg {
+        display: none;
+    }
+    .payment-banner__content .banner-img-w {
+        display: none !important;
+    }
+    .teller-banner__content .banner-img-w {
+        display: none;
+    }
+    .copyright-text {
+        float: none !important;
+        text-align: center !important;
+    }
+}
+@media only screen and (max-width: 1366px) {
+    .mb-header-nav h4,
+    .mb-header-nav h5 {
+        font-size: 13px;
+        line-height: 15px;
+    }
+    .mb-header-nav h5,
+    .nav-desc {
+        font-size: 10px;
+        line-height: 17px;
+    }
+    .docs-link {
+        line-height: 15px;
+    }
+}
+
+@media only screen and (min-width: 1366px) {
+    .payment-banner__content {
+        padding: 190px 0 70px !important;
+    }
+}
+
+@media only screen and (min-width: 800px) and (max-width: 934px) {
+    .saas-set {
+        width: 100%;
+    }
+    .empower-1 {
+        padding-bottom: 80px;
+    }
+}
+
+@media only screen and (max-width: 1201px) {
+    .menu-icon {
+        top: 19px;
+    }
+}
+
+@media only screen and (max-width: 1024px) {
+    .menu__item {
+        width: -webkit-fill-available !important;
+    }
+    .service .service-list__item .secrvice-card__img-w.w-img {
+        top: 34%;
+        right: 0;
+    }
+    h3.psignup {
+        margin-top: 60px;
+        text-align: center;
+    }
+    .certificate-section .certificate-list__item:not(:last-child) {
+        margin-right: 0 !important;
+    }
+    .epos_img{
+        width: 100%;
+    }
+    .epos-ptb{
+        margin-top: 80px;
+    }
+    .epos_vector{
+        padding: 20px;
+    }
+    .epos-banner{
+        border-radius: 0px 0px 0px 115px !important;
+    }
+
+}
+@media only screen and (max-width: 991px) {
+    .service .service-list__item .secrvice-card__img-w.w-img {
+        top: 32%;
+        right: 0;
+    }
+    .awards-box .certificate-list__item {
+        width: 31%;
+    }
+    
+    .certificate-section .certificate-list__item {
+        margin-top: 25px;
+    }
+    .menu-icon {
+        top: 19px;
+    }
+}
+@media only screen and (max-width: 800px) {
+    .center-img {
+        margin: 0 auto;
+    }
+    .web-app {
+        text-align: center;
+    }
+    .btn-center {
+        float: none;
+    }
+    .developer-section .developer .developer-link {
+        position: absolute;
+    }
+    .new-address {
+        margin-top: 20px !important;
+        margin-bottom: 20px !important;
+    }
+    .location .floating-panel-wrap .floating-panel {
+        padding: 20px;
+    }
+    .use-case-pb {
+        padding-top: 0;
+    }
+    .product-tagline {
+        line-height: 42px;
+    }
+    .help .help-card {
+        padding: 60px 85px 60px;
+    }
+}
+
+
+
+@media only screen and (max-width: 768px) {
+    .leadership-section .leadership-mobile .options .option .label .info__para {
+        font-size: 14px;
+        margin-top: 25px;
+    }
+    .service .service-list__item .secrvice-card .service-para {
+        font-size: 17px;
+    }
+    .story-section .timeline .timeline-list__item .timeline-card .para {
+        line-height: 20px;
+    }
+    .privacy #faq .card .card-header .btn-header-link .desc-head,
+    .story-section .timeline .timeline-list__item .timeline-card .month {
+        line-height: 22px;
+    }
+    .empower-1 {
+        padding-bottom: 80px;
+    }
+    .use-case-pb {
+        padding-bottom: 30px;
+    }
+}
+
+@media only screen and (max-width: 767px) {
+    .location .floating-panel-wrap .floating-panel {
+        padding: 16px;
+    }
+    .w-top {
+        text-align: left;
+    }
+    .pg-onpage{
+        font-size: 21px !important;
+    }
+    .pg-vec{
+        box-shadow: 0 0 6px 1px rgb(0 0 0 / 10%);
+        margin-top: 40px;
+    }
+    h3.psignup {
+        text-align: left;
+    }
+    .service .service-list__item .secrvice-card__img-w.w-img {
+        top: 24%;
+        right: 0;
+    }
+    .secrvice-card__img {
+        height: 280px;
+    }
+    .easy-banner__content .banner-heading.sm-banner-head {
+        font-size: 26px;
+        line-height: 38px;
+    }
+    .blur-bg h3 {
+        margin-bottom: 10px;
+        font-size: 16px;
+    }
+    .blur-bg ul li {
+        font-size: 14px;
+        line-height: 32px;
+    }
+    .home-banner__content .integrated-list {
+        justify-content: center;
+    }
+
+    .home-banner__content.common-spacing{
+        padding: 140px 0 140px !important;
+    }
+
+    .privacy #faq .card .card-header .btn-header-link .desc-head,
+    .story-section .timeline .timeline-list__item .timeline-card .month {
+        font-size: 15px;
+    }
+    .story-section .timeline .timeline-list__item .timeline-card .para {
+        line-height: 18px;
+    }
+    .privacy #faq .card .card-header .btn-header-link .desc-head,
+    .story-section .timeline .timeline-list__item .timeline-card .month {
+        line-height: 20px;
+    }
+    .web-app {
+        text-align: center;
+    }
+    .center-img {
+        margin: 0 auto;
+    }
+    .btn-center {
+        float: none;
+    }
+    .new-address {
+        margin-top: 20px !important;
+        margin-bottom: 20px !important;
+    }
+    .partner-sign {
+        text-align: left;
+    }
+    .m-payment {
+        text-align: left;
+    }
+    .market_head {
+        text-align: left !important;
+    }
+    .payment-banner__content .banner-heading {
+        text-align: left;
+    }
+    .gen {
+        font-size: 32px;
+        text-align: left;
+    }
+    .we-re {
+        text-align: left;
+    }
+    .small-text {
+        text-align: left;
+    }
+    .help-button-list {
+        display: block;
+    }
+    .heading--black {
+        text-align: left;
+    }
+    .gateway-glance .gateway-glance-left .gateway-icon {
+        display: none;
+    }
+    .glance .glance-left .gateway-icon {
+        display: none;
+    }
+    .extrasmall-text--black {
+        text-align: left;
+    }
+    .watch-us {
+        text-align: center !important;
+    }
+    .watch-p {
+        text-align: center !important;
+    }
+    .link-btn--blue-line {
+        display: block;
+    }
+    .heading--white {
+        text-align: left;
+    }
+    .easyquestion-section .easyquestion .easy-question-link {
+        display: block;
+    }
+    .extrasmall-text--grey {
+        text-align: left;
+    }
+    .img-txt {
+        display: none !important;
+    }
+    .list-group {
+        text-align: left;
+    }
+    .gbrands .gbrands-heading {
+        text-align: left;
+    }
+    .solution-section .solution__heading.cta-pg {
+        font-size: 20px;
+    }
+    .spacing-anchor {
+        padding: 18px;
+    }
+    .teller-banner__content .banner-heading {
+        text-align: left;
+    }
+    .help .help-card__text {
+        text-align: left;
+    }
+    .smartbilling-banner__content .banner-heading {
+        text-align: left;
+    }
+    .smartbilling-glance .smartbilling-glance-left .gateway-icon {
+        display: none;
+    }
+    .capital-banner__content .banner-heading {
+        text-align: left;
+    }
+    .heading--blue {
+        text-align: left;
+    }
+    .ali-t {
+        text-align: center !important;
+    }
+    .contact-banner__content .contact-heading {
+        text-align: left;
+    }
+    .privacy-banner__content .privacy-heading {
+        text-align: left;
+    }
+    .automation-section .automation .automation-mobile .automation-list__item .automation-card .automation-name {
+        text-align: center;
+    }
+    .about-heading {
+        text-align: left !important;
+    }
+    .leadership-section .leadership-mobile .options .option:not(.active) .label .info__para {
+        text-align: center;
+        margin-top: 0;
+    }
+    .terms-banner__content .terms-heading {
+        text-align: left;
+    }
+    .home-banner__content .banner-heading {
+        text-align: left;
+    }
+    .home-banner-para {
+        text-align: left;
+    }
+    .demo-banner .demo-card .demo-right .demo-head {
+        text-align: center;
+    }
+    .demo-banner .demo-card .demo-right .demo-link {
+        margin: 1%;
+    }
+    .blur-bg h3 {
+        text-align: left !important;
+    }
+    .blur-bg p {
+        text-align: left !important;
+    }
+    .howitwroks-section .howitwroks .howitwroks-img {
+        margin: 0 auto;
+        float: none;
+    }
+    .gbenefit__img {
+        margin: 0 auto;
+        float: none;
+    }
+    .gdeveloper__img {
+        float: none;
+        margin: 0 auto;
+    }
+    .footer-nav-list {
+        width: 95%;
+    }
+    .sbenefit__img {
+        float: none;
+        margin: 0 auto;
+    }
+    .endtoend {
+        display: block;
+        margin: 0 auto;
+        width: 80%;
+    }
+    .wbenefit__img {
+        margin: 0 auto;
+        float: none;
+    }
+    .webhowitwroks-section .webhowitwroks .webhowitwroks-img {
+        margin: 0 auto;
+        float: none;
+    }
+    .wseamless-section .wseamless .wseamless-img {
+        margin: 0 auto;
+        float: none;
+    }
+    .capital__img {
+        margin: 0 auto;
+        float: none;
+    }
+    .seamless-section .seamless .seamless-img {
+        margin: 0 auto;
+        float: none;
+    }
+    .edurates-section .edurates .edurate-img {
+        margin: 0 auto;
+        float: none;
+    }
+    .demo-banner .demo-card .demo-right .demo-head {
+        text-align: center;
+        font-size: 16px;
+    }
+    .align-image-left {
+        float: left !important;
+    }
+    .b-flow {
+        width: 100%;
+    }
+    h3.psignup {
+        margin-top: 80px;
+    }
+    .pricing-banner__content .banner-heading {
+        text-align: left;
+    }
+    .capital__img {
+        margin-bottom: 35px;
+    }
+    .certificate-section .certificate-list {
+        justify-content: center !important;
+    }
+    .menu-icon span.line:first-child {
+        width: 30px;
+    }
+    .menu-icon span.line:last-child {
+        width: 30px;
+    }
+    .menu-icon.active .line:nth-child(1) {
+        transform: translateY(1px) rotate(45deg);
+    }
+    .menu-icon.active .line:nth-child(3) {
+        transform: translateY(-15px) rotate(-45deg);
+        width: 30px;
+    }
+    .table-shadow {
+        overflow: scroll;
+    }
+    .table-shadow .ui.table td {
+        font-size: 14px;
+    }
+    .payment-acceptance-section .payment-acceptance .acceptance-img {
+        width: 100%;
+        height: auto;
+    }
+    .empower-1 {
+        margin-bottom: 50px;
+    }
+    .mp-1 {
+        padding-top: 50px;
+    }
+    .awards-box .certificate-list {
+        flex-wrap: wrap;
+    }
+
+    .home-banner__content .integrated-list__item {
+        margin-right: 17px;
+        margin-left: 17px;
+        width: auto;
+    }
+}
+@media only screen and (max-width: 600px) {
+    .leadership-section .leadership-mobile .options .option .label .info__para {
+        margin-top: 5px;
+        font-size: 14px;
+    }
+    .pg-onpage{
+        font-size: 21px !important;
+    }
+    .demo-call {
+        max-width: 400px !important;
+    }
+    .img-txt {
+        display: none !important;
+    }
+    .spacing-anchor {
+        padding: 13px;
+    }
+    .head-points {
+        font-size: 18px;
+    }
+    .help .help-card__text.initiate-auto {
+        font-size: 24px;
+    }
+    .payment-banner__content .banner-heading.wire-banner-text {
+        font-size: 28px;
+        line-height: 38px;
+    }
+    .teller-banner__content .banner-heading.easy-collect-text {
+        font-size: 28px;
+        line-height: 38px;
+    }
+    .footer-subhead {
+        font-size: 14px;
+    }
+    .certificate-section .certificate-list__item:not(:last-child) {
+        margin-right: 20px !important;
+        margin-bottom: 20px;
+    }
+    .certificate-section .certificate-list {
+        justify-content: center !important;
+    }
+    .certificate-section .certificate-head {
+        padding: 0 0 2px 0;
+    }
+
+    .certificate-section {
+        padding-top: 30px !important;
+        padding-bottom: 30px !important;
+    }
+    .badge-img {
+        width: 100% !important;
+    }
+    .usecase-fees {
+        width: 100%;
+    }
+    .empower-1 {
+        padding-bottom: 20px;
+    }
+    .help .help-card {
+        padding: 60px 14px 55px;
+    }
+    .badge-img {
+        width: 100%;
+    }
+}
+@media only screen and (max-width:383px){
+    .help-button-list.wire_cta{
+    padding: 15px 0;
+    }
+    .payment-banner__content.wire-spacing{
+        height: 520px;
+    }
+}
+@media only screen and (max-width: 280px) {
+    body {
+        overflow: scroll;
+    }
+}
+@media only screen and (max-width: 240px) {
+    body {
+        overflow: scroll;
+    }
+}
+
+
+
+@media only screen and (min-width: 768px) and (max-width: 992px) {
+
+    .developer-section .developer {
+        -ms-transform: translateY(-102%)!important;
+        transform: translateY(-87%)!important;
+    }
+    
+    .service .service-list__item .secrvice-card .service-para {
+        font-size: 17px!important;
+    }
+
+}
+@media only screen and (max-width:991px)
+{   
+    .developer-section .developer {
+        -ms-transform: translateY(-102%)!important;
+        transform: translateY(-70%)!important;
+    }
+    .features{
+        padding: 170px 0 120px !important;
+    }
+}
+
+
+.common-banner-content .integrated-list {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex !important;
+    width: 100%;
+}
+
+.common-banner-content .integrated-list__item {
+    margin-right: 40px;
+    width: 16%;
+    display: -webkit-inline-box;
+    display: -ms-inline-flexbox;
+    display: inline-flex !important;
+    opacity: 0.6 !important;
+}
+
+.common-banner-content .integrated-list__item {
+    margin-right: 33px;
+    width: auto;
+}
+
+.extra-small-text--white {
+    color: #fff;
+}
+

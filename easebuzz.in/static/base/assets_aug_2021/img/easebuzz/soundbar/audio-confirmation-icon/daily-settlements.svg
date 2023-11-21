@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="43" height="42" viewBox="0 0 43 42">
+  <g id="Group_19825" data-name="Group 19825" transform="translate(-211 -1237.521)">
+    <g id="Group_18420" data-name="Group 18420" transform="translate(211 1237.521)">
+      <rect id="Rectangle_6089" data-name="Rectangle 6089" width="42" height="42" fill="none"/>
+      <g id="Group_6120" data-name="Group 6120" transform="translate(4.567 4.548)">
+        <path id="Path_599" data-name="Path 599" d="M12.991,0A1.762,1.762,0,0,0,11.94.348L.723,8.69A1.79,1.79,0,0,0,1.6,11.906H24.385a1.79,1.79,0,0,0,.874-3.215L14.042.348A1.762,1.762,0,0,0,12.991,0Zm1.253,7.811a1.761,1.761,0,0,1-2.505,0,1.8,1.8,0,0,1,0-2.526,1.761,1.761,0,0,1,2.505,0,1.8,1.8,0,0,1,0,2.526ZM22.439,13.1H19.486v3.634a9.68,9.68,0,0,1,2.953-1.115Zm-7.082,8.338a9.8,9.8,0,0,0-.607,5.359H.886a.885.885,0,0,1-.626-.263A.9.9,0,0,1,0,25.9v-.6a3.887,3.887,0,0,1,1.124-2.737,3.823,3.823,0,0,1,2.714-1.134H15.357Zm1.768-2.793a9.773,9.773,0,0,0-1.173,1.6H14.172V13.1h2.953ZM11.81,13.1v7.145H8.857V13.1ZM6.5,13.1v7.145H3.543V13.1Z" transform="translate(0 0)" fill="#6d44e5" fill-rule="evenodd"/>
+      </g>
+    </g>
+    <ellipse id="Ellipse_6088" data-name="Ellipse 6088" cx="12.5" cy="12" rx="12.5" ry="12" transform="translate(229 1255.521)" fill="#85e6c4"/>
+    <text id="_24h" data-name="24h" transform="translate(233 1271.521)" fill="#6a4ae6" font-size="10" font-family="DM Sans" font-weight="700"><tspan x="0" y="0">24h</tspan></text>
+  </g>
+</svg>

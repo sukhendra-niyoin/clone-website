@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="25" height="32.786" viewBox="0 0 25 32.786">
+  <g id="Group_19807" data-name="Group 19807" transform="translate(-5594 3461)">
+    <g id="memory-card_68735" transform="translate(5594 -3461)">
+      <g id="Group_19805" data-name="Group 19805" transform="translate(0)">
+        <path id="Path_27023" data-name="Path 27023" d="M91.3,0H77.761a2.7,2.7,0,0,0-1.908.79l-6.07,6.07a2.7,2.7,0,0,0-.79,1.908v21.32a2.7,2.7,0,0,0,2.7,2.7H91.3a2.7,2.7,0,0,0,2.7-2.7V2.7A2.7,2.7,0,0,0,91.3,0ZM80.537,8.14a.671.671,0,0,1-.671.671H77.134a.671.671,0,0,1-.672-.671V3.267a.671.671,0,0,1,.672-.671h2.732a.671.671,0,0,1,.671.671ZM86,8.14a.671.671,0,0,1-.671.671H82.6a.671.671,0,0,1-.672-.671V3.267A.671.671,0,0,1,82.6,2.6H85.33A.671.671,0,0,1,86,3.267V8.14Zm5.464,0a.671.671,0,0,1-.671.671H88.062a.671.671,0,0,1-.672-.671V3.267a.671.671,0,0,1,.672-.671h2.732a.671.671,0,0,1,.671.671Z" transform="translate(-68.994 0)" fill="#6d44e5"/>
+      </g>
+    </g>
+    <rect id="Rectangle_6744" data-name="Rectangle 6744" width="4.87" height="8.313" rx="0.5" transform="translate(5601.163 -3459.345)" fill="#85e6c4"/>
+    <rect id="Rectangle_6745" data-name="Rectangle 6745" width="4.87" height="8.313" rx="0.5" transform="translate(5606.939 -3459.345)" fill="#85e6c4"/>
+    <rect id="Rectangle_6746" data-name="Rectangle 6746" width="4.87" height="8.313" rx="0.5" transform="translate(5612.487 -3459.345)" fill="#85e6c4"/>
+  </g>
+</svg>

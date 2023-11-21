@@ -1,0 +1,13 @@
+<svg id="Build_Buzz" data-name="Build Buzz" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24.333" height="20" viewBox="0 0 24.333 20">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.042" y1="-0.202" x2="0.922" y2="1.21" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff5e9"/>
+      <stop offset="0.605" stop-color="#7d95e6"/>
+      <stop offset="0.999" stop-color="#3f28dd"/>
+    </linearGradient>
+  </defs>
+  <path id="Path_1920" data-name="Path 1920" d="M23.833,22.889h-21A1.284,1.284,0,0,1,1.5,21.556V4.333A1.351,1.351,0,0,1,2.833,3H21.5a3.51,3.51,0,0,1,3.556,3.556v15A1.145,1.145,0,0,1,23.833,22.889Z" transform="translate(-1.5 -2.889)" fill="url(#linear-gradient)"/>
+  <path id="Path_1921" data-name="Path 1921" d="M20.911,2.9H16.689L6.8,22.9H22.911a2.347,2.347,0,0,0,2.333-2.333V7.233A4.269,4.269,0,0,0,20.911,2.9Z" transform="translate(-0.911 -2.9)" fill="#18253e"/>
+  <path id="Path_1922" data-name="Path 1922" d="M19.933,19.189H15.267A1.709,1.709,0,0,1,13.6,17.522V12.967A1.709,1.709,0,0,1,15.267,11.3h4.667A1.709,1.709,0,0,1,21.6,12.967v4.556A1.709,1.709,0,0,1,19.933,19.189Z" transform="translate(-0.156 -1.967)" fill="#33eeb1"/>
+  <path id="Path_1923" data-name="Path 1923" d="M9.644,12.4H4.867A1.709,1.709,0,0,1,3.2,10.733V6.067A1.709,1.709,0,0,1,4.867,4.4H9.644a1.709,1.709,0,0,1,1.667,1.667v4.556A1.812,1.812,0,0,1,9.644,12.4Z" transform="translate(-1.311 -2.733)" fill="#fff"/>
+</svg>

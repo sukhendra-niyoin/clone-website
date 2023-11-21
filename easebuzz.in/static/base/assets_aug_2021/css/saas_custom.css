@@ -1,0 +1,37 @@
+.saas-usecase-acc {
+    background-color: #17243f;
+    padding-top: 100px !important;
+    padding-bottom: 120px !important;
+}
+.gateway-glance .gateway-glance-right #glance .card .card-header .btn-header-link {
+    background: #17243f !important;
+}
+.gateway-glance .gateway-glance-right #glance .card .collapse.show {
+    background: #17243f !important;
+}
+.card {
+    border-bottom: 1px solid #433e3e !important;
+}
+.gateway-glance .gateway-glance-right #glance .card .card-header .btn-header-link.collapsed {
+    color: #fff !important;
+}
+.gateway-glance .gateway-glance-right #glance .card .collapsing {
+    background: #17243f !important;
+    color: #fff;
+}
+.pro-saas {
+    margin-top: 50px;
+}
+@media only screen and (max-width: 767px) {
+    .build-stage {
+        margin-top: 60px !important;
+    }
+    .pro-saas {
+        margin-top: 60px !important;
+    }
+}
+@media only screen and (max-width: 800px) {
+    .gdeveloper__img {
+        float: none !important;
+    }
+}

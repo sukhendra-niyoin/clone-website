@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="40" height="40" viewBox="0 0 40 40">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_2367" data-name="Rectangle 2367" width="32" height="25.905" rx="5" fill="#85e6c4"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <path id="Path_17987" data-name="Path 17987" d="M15.627,14.243a.747.747,0,0,0-1.055,1.035l.073.084,2.243,2.286.084.074a.75.75,0,0,0,.9,0l.085-.075,2.24-2.285.071-.085a.747.747,0,0,0-1.055-1.034l-.083.074L17.42,16.059l-1.71-1.742Zm2.327-10.72a.747.747,0,0,0-.983-.075l-.084.074L14.644,5.807a.747.747,0,0,0,.983,1.119l.083-.073,1.71-1.742,1.706,1.742a.747.747,0,0,0,1.138-.962l-.071-.084Z" transform="translate(-14.426 -3.298)" fill="#6d44e5"/>
+    </clipPath>
+  </defs>
+  <g id="manage_discount" data-name="manage discount" transform="translate(-5693 -1546)">
+    <g id="Group_9090" data-name="Group 9090" transform="translate(43 5.048)">
+      <rect id="Rectangle_2366" data-name="Rectangle 2366" width="32" height="25.905" rx="5" transform="translate(5654 1548)" fill="#85e6c4"/>
+      <g id="Mask_Group_8884" data-name="Mask Group 8884" transform="translate(5654 1548)" clip-path="url(#clip-path)">
+        <g id="Mask_Group_8882" data-name="Mask Group 8882" transform="translate(22.637 5.666)" clip-path="url(#clip-path-2)">
+          <path id="Path_17986" data-name="Path 17986" d="M18.212,0a1.742,1.742,0,0,1,1.742,1.742V14.187a1.742,1.742,0,0,1-1.742,1.742H11a1.8,1.8,0,0,1-.255-.018V.023A1.785,1.785,0,0,1,11,0Z" transform="translate(-12.357 -0.68)" fill="#6d44e5"/>
+        </g>
+        <g id="Mask_Group_8885" data-name="Mask Group 8885" transform="translate(22.637 32.762)" clip-path="url(#clip-path-2)">
+          <path id="Path_17992" data-name="Path 17992" d="M18.212,0a1.742,1.742,0,0,1,1.742,1.742V14.187a1.742,1.742,0,0,1-1.742,1.742H11a1.8,1.8,0,0,1-.255-.018V.023A1.785,1.785,0,0,1,11,0Z" transform="translate(-12.357 -0.68)" fill="#6d44e5"/>
+        </g>
+      </g>
+    </g>
+    <rect id="Rectangle_2398" data-name="Rectangle 2398" width="40" height="40" transform="translate(5693 1546)" fill="none"/>
+  </g>
+</svg>
